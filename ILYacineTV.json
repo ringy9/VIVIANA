@@ -104,7 +104,15 @@
     "backup_ads_3": "none",
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
-    "fallback_on_timeout": true
+    "fallback_on_timeout": true,
+    "show_interstitial_on_home_click": true,
+    "show_interstitial_on_category_click": true,
+    "show_interstitial_on_channel_click": true,
+    "show_interstitial_on_match_click": true,
+    "show_interstitial_on_settings_click": true,
+    "show_interstitial_on_menu_click": true,
+    "show_interstitial_on_player_open": false,
+    "show_interstitial_before_play": true
   },
   "app_open": {
     "enabled": false,
@@ -127,7 +135,12 @@
     "fallback": "rewarded",
     "fallback_network": "levelplay",
     "show_before_play": true,
-    "timeout_ms": 3000
+    "timeout_ms": 5000,
+    "show_loading_before_ad": true,
+    "loading_text": "Loading ads...",
+    "block_player_until_ad_finished": true,
+    "preload_on_screen_open": true,
+    "only_before_play": true
   },
   "menu": [
     {
