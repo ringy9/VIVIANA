@@ -28,7 +28,7 @@
   },
   "ads": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "meta",
     "banner_enabled": true,
     "native_enabled": false,
     "interstitial_enabled": true,
@@ -75,7 +75,7 @@
       "native_interval_channels": 6
     },
     "show_player_bottom": true,
-    "primary_network": "levelplay",
+    "primary_network": "meta",
     "mediation_enabled": true,
     "admob_enabled": false,
     "admob_direct_enabled": false,
