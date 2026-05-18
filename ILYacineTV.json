@@ -24,17 +24,17 @@
     "enabled": true,
     "title": "هل تريد الخروج؟",
     "message": "هل أنت متأكد من أنك تريد مغادرة التطبيق؟",
-    "show_native_ad": true
+    "show_native_ad": false
   },
   "ads": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "levelplay",
     "banner_enabled": true,
-    "native_enabled": true,
+    "native_enabled": false,
     "interstitial_enabled": true,
     "rewarded_enabled": true,
-    "app_open_enabled": true,
-    "interstitial_clicks": 1,
+    "app_open_enabled": false,
+    "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 30,
     "levelplay": {
       "enabled": true,
@@ -42,7 +42,11 @@
       "banner_ad_unit": "12koc6mzc816f9nd",
       "interstitial_ad_unit": "kmmof90rk2irgz0n",
       "native_ad_unit": "ej00a78yvs8a8vcm",
-      "rewarded_ad_unit": "6dnuhpqy23fbjsr0"
+      "rewarded_ad_unit": "6dnuhpqy23fbjsr0",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": true,
+      "native_enabled": false
     },
     "admob_app_id": "",
     "admob_banner": "",
@@ -64,16 +68,46 @@
       "banner_matches": true,
       "banner_settings": true,
       "native_home": false,
-      "native_channels": true,
-      "native_matches": true,
-      "native_player": true,
-      "native_exit": true,
+      "native_channels": false,
+      "native_matches": false,
+      "native_player": false,
+      "native_exit": false,
       "native_interval_channels": 6
     },
-    "show_player_bottom": true
+    "show_player_bottom": true,
+    "primary_network": "levelplay",
+    "mediation_enabled": true,
+    "admob_enabled": false,
+    "admob_direct_enabled": false,
+    "admob_banner_enabled": false,
+    "admob_interstitial_enabled": false,
+    "admob_native_enabled": false,
+    "admob_rewarded_enabled": false,
+    "admob_app_open_enabled": false,
+    "max_enabled": false,
+    "levelplay_enabled": true,
+    "unity_ads_enabled": true,
+    "meta_ads_enabled": true,
+    "mediation_networks": [
+      "unity_ads",
+      "meta"
+    ],
+    "banner_network": "levelplay",
+    "native_network": "none",
+    "interstitial_network": "levelplay",
+    "rewarded_network": "levelplay",
+    "interstitial_show_first_click": true,
+    "interstitial_click_interval": 3,
+    "interstitial_cooldown_seconds": 30,
+    "backup_ads_1": "unity_ads",
+    "backup_ads_2": "meta",
+    "backup_ads_3": "none",
+    "fallback_on_no_fill": true,
+    "fallback_on_error": true,
+    "fallback_on_timeout": true
   },
   "app_open": {
-    "enabled": true,
+    "enabled": false,
     "min_seconds_between_ads": 300
   },
   "player_config": {
@@ -89,8 +123,11 @@
   "player_ads": {
     "enabled": true,
     "ad_type": "interstitial",
+    "network": "levelplay",
     "fallback": "rewarded",
-    "timeout_ms": 5000
+    "fallback_network": "levelplay",
+    "show_before_play": true,
+    "timeout_ms": 3000
   },
   "menu": [
     {
