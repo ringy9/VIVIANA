@@ -33,8 +33,8 @@
     "native_enabled": true,
     "interstitial_enabled": true,
     "rewarded_enabled": true,
-    "app_open_enabled": false,
-    "interstitial_clicks": 1,
+    "app_open_enabled": true,
+    "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 30,
     "levelplay": {
       "enabled": true,
@@ -73,11 +73,11 @@
     "show_player_bottom": true
   },
   "app_open": {
-    "enabled": false,
+    "enabled": true,
     "min_seconds_between_ads": 300
   },
   "player_config": {
-    "use_external_player": false,
+    "use_external_player": true,
     "external_player_package": "com.ilyas.playerpro",
     "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
     "default_user_agent": "ILYAS TV/1.0",
