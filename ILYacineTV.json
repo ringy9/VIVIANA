@@ -152,21 +152,50 @@
           "event_url": "",
           "views": "99.7K views"
         },
+    {
+      "id": "bein",
+      "name": "beIN SPORTS",
+      "icon": "",
+      "channels": [
         {
-          "name": "BEIN SPORTS 1",
-          "subtitle": "BEIN SPORTS 1",
+          "name": "beIN Sports 1",
           "logo": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
           "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "user_agent": "",
           "referer": "",
           "origin": "",
           "cookie": "",
+          "subtitle": "FHD",
           "thumbnail": "https://github.com/ringy9/BEIN/blob/main/bein1.png?raw=true",
           "event_image": "",
           "event_text": "",
           "event_url": "",
-          "views": "199.7K views"
-        },
+          "views": "99.7K views",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
         {
           "name": "BEIN SPORTS 2",
           "subtitle": "BEIN SPORTS 2",
