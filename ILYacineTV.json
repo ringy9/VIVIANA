@@ -28,7 +28,7 @@
   },
   "ads": {
     "enabled": true,
-    "default_network": "meta",
+    "default_network": "levelplay",
     "banner_enabled": true,
     "native_enabled": false,
     "interstitial_enabled": true,
@@ -75,7 +75,7 @@
       "native_interval_channels": 6
     },
     "show_player_bottom": true,
-    "primary_network": "meta",
+    "primary_network": "levelplay",
     "mediation_enabled": true,
     "admob_enabled": false,
     "admob_direct_enabled": false,
@@ -93,7 +93,7 @@
       "meta"
     ],
     "banner_network": "levelplay",
-    "native_network": "none",
+    "native_network": "levelplay",
     "interstitial_network": "levelplay",
     "rewarded_network": "levelplay",
     "interstitial_show_first_click": true,
