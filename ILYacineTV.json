@@ -168,7 +168,7 @@
         {
           "name": "BEIN SPORTS 1",
           "subtitle": "BEIN SPORTS 1",
-          "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+          "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/6602d65d297680193d812b1823b016af",
           "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
           "user_agent": "",
           "referer": "",
@@ -183,7 +183,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -191,7 +191,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325793",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -199,7 +199,49 @@
             },
             {
               "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42680.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+                {
+          "name": "BEIN SPORTS 1",
+          "subtitle": "BEIN SPORTS 1",
+          "logo": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fcdn-img.staticzz.com%2Fimg%2Fnoticias%2F519%2FimgS620I1128519T20260517201555.jpg",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+          "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318198",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325794",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42679.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
