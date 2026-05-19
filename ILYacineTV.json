@@ -874,22 +874,6 @@
             "referer": "",
             "origin": "",
             "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
           }
         ]
       }
