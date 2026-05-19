@@ -163,7 +163,7 @@
     {
       "id": "match_live_1",
       "name": "تغطية حية - EVENT LIVE",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [
         {
           "name": "BEIN SPORTS 1",
@@ -212,7 +212,7 @@
     {
       "id": "bein_fhd",
       "name": "بي ان سبورت biIN SPORTS",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/beinlogo.png?raw=true",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/6.png?raw=true",
       "channels": [
         {
           "name": "BEIN NEWS",
@@ -807,7 +807,7 @@
   {
     "id": "match_live_1",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/8.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -905,7 +905,7 @@
   {
     "id": "match_live_3",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -954,7 +954,7 @@
   {
     "id": "match_live_4",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/1.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -1003,7 +1003,7 @@
   {
     "id": "match_live_5",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/2.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -1052,7 +1052,7 @@
   {
     "id": "match_live_6",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/3.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -1101,56 +1101,7 @@
   {
     "id": "match_live_7",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
-    "channels": [
-      {
-        "name": "BEIN SPORTS 1",
-        "subtitle": "BEIN SPORTS 1",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
-        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "match_live_8",
-    "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/4.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -1199,7 +1150,7 @@
   {
     "id": "match_live_9",
     "name": "بث للمباريات - MATCH LIVE",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
+    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/5.png?raw=true",
     "channels": [
       {
         "name": "BEIN SPORTS 1",
@@ -1247,87 +1198,24 @@
   }
   ],
   "matches": [
-    {
-      "team1": "الزمالك",
-      "team2": "اتحاد العاصمة",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101634.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
-      "time": "19:00",
-      "status": "نهائي كأس الكونفدرالية الإفريقية",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "النصر",
-      "team2": "غامبا أوساكا",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9837.png",
-      "time": "18:45",
-      "status": "نهائي دوري أبطال آسيا 2",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "الأخدود",
-      "team2": "الخليج",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/142018.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101908.png",
-      "time": "17:05",
-      "status": "الدوري السعودي",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "الهلال",
-      "team2": "نيوم",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/461011.png",
-      "time": "17:05",
-      "status": "الدوري السعودي",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "الأهلي",
-      "team2": "الخلود",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101906.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/145252.png",
-      "time": "19:00",
-      "status": "الدوري السعودي",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "تشيلسي",
-      "team2": "مانشستر سيتي",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-      "time": "15:00",
-      "status": "نهائي كأس الاتحاد الإنجليزي",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "باير ليفركوزن",
-      "team2": "هامبورغ",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9779.png",
-      "time": "14:30",
-      "status": "الدوري الألماني",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "بايرن ميونخ",
-      "team2": "كولن",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8722.png",
-      "time": "14:30",
-      "status": "الدوري الألماني",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    },
-    {
-      "team1": "فيردر بريمن",
-      "team2": "بوروسيا دورتموند",
-      "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8697.png",
-      "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
-      "time": "14:30",
-      "status": "الدوري الألماني",
-      "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-    }
+  {
+    "team1": "بورنموث",
+    "team2": "مانشستر سيتي",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "time": "19:30",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
+  {
+    "team1": "تشيلسي",
+    "team2": "توتنهام هوتسبير",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+    "time": "20:15",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  }
   ],
   "player_bottom": {
     "enabled": true,
