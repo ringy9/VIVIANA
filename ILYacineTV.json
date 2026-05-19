@@ -183,7 +183,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -191,7 +191,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325793",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42680.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -225,7 +225,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318198",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42679.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -233,7 +233,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325794",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42027.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
