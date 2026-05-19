@@ -852,9 +852,9 @@
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/8.png?raw=true",
     "channels": [
       {
-        "name": "BEIN SPORTS 1",
-        "subtitle": "BEIN SPORTS 1",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/09d17a892e3b77de1c587d8b161d5e62",
+        "name": "cartoon network",
+        "subtitle": "cartoon network",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
@@ -869,7 +869,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -877,7 +877,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
