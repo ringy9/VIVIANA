@@ -162,7 +162,7 @@
   "categories": [
     {
       "id": "match_live_1",
-      "name": "بث للمباريات - MATCH LIVE",
+      "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/live.png?raw=true",
       "channels": [
         {
