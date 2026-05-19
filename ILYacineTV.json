@@ -847,8 +847,8 @@
       ]
     },
   {
-    "id": "match_live_1",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "Entertainment_bein",
+    "name": "ترفيه - beIN Entertainment",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/8.png?raw=true",
     "channels": [
       {
@@ -896,8 +896,8 @@
     ]
   },
   {
-    "id": "match_live_2",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": thmanyah",
+    "name": "ثمانية - Thmanyah",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/10.png?raw=true",
     "channels": [
       {
@@ -945,8 +945,8 @@
     ]
   },
   {
-    "id": "match_live_3",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "alwan_sports",
+    "name": "الوان سبورت - Alwan Sports",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
     "channels": [
       {
@@ -994,8 +994,8 @@
     ]
   },
   {
-    "id": "match_live_4",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "News_Channels",
+    "name": "اخبار - News Channels",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/1.png?raw=true",
     "channels": [
       {
@@ -1043,8 +1043,8 @@
     ]
   },
   {
-    "id": "match_live_5",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "Arabic_Channels",
+    "name": "قنوات عربية - Arabic Channels",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/2.png?raw=true",
     "channels": [
       {
@@ -1092,8 +1092,8 @@
     ]
   },
   {
-    "id": "match_live_6",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "Mchannel",
+    "name": "قنوات M - Mchannel",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/3.png?raw=true",
     "channels": [
       {
@@ -1141,8 +1141,8 @@
     ]
   },
   {
-    "id": "match_live_7",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "France_Channels",
+    "name": "قنوات فرنسية - France Channels",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/4.png?raw=true",
     "channels": [
       {
@@ -1190,8 +1190,8 @@
     ]
   },
   {
-    "id": "match_live_9",
-    "name": "بث للمباريات - MATCH LIVE",
+    "id": "Kids_Channels",
+    "name": "قنوات اطفال - Kids Channels",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/5.png?raw=true",
     "channels": [
       {
