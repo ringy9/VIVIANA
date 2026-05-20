@@ -1991,8 +1991,8 @@
   {
     "team1": "أولمبي الشلف",
     "team2": "اتحاد بسكرة",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/316392.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316396.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101629.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316409.png",
     "time": "17:15",
     "status": "الرابطة الجزائرية المحترفة الأولى",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2024,6 +2024,7 @@
     "status": "الرابطة الجزائرية المحترفة الأولى",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
+
   ],
   "player_bottom": {
     "enabled": true,
