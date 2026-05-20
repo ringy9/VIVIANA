@@ -1946,8 +1946,8 @@
   {
     "team1": "الأهلي",
     "team2": "الخليج",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101906.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101908.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/2530.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
     "time": "19:00",
     "status": "دوري روشن السعودي",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -1955,7 +1955,7 @@
   {
     "team1": "النجمة",
     "team2": "النصر",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/460999.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/1523707.png",
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
     "time": "19:00",
     "status": "دوري روشن السعودي",
@@ -1964,8 +1964,8 @@
   {
     "team1": "الأهلي",
     "team2": "المصري",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101633.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101645.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101745.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101762.png",
     "time": "18:00",
     "status": "الدوري المصري الممتاز",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -1983,7 +1983,7 @@
     "team1": "البنك الأهلي",
     "team2": "سموحة",
     "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/404015.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101644.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/100155.png",
     "time": "18:00",
     "status": "الدوري المصري الممتاز",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2024,6 +2024,7 @@
     "status": "الرابطة الجزائرية المحترفة الأولى",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
+
 
   ],
   "player_bottom": {
