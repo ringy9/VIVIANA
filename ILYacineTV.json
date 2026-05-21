@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [
         {
-          "name": "BEIN SPORTS 1",
-          "subtitle": "BEIN SPORTS 1",
-          "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/5ad984f0057df6091dacf2e71a1956bb",
+          "name": "Thmanyah 1",
+          "subtitle": "Thmanyah 1",
+          "logo": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F04%2FDamac-vs-Al-Nassr-copy.jpg&w=1920&q=75",
           "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
           "user_agent": "",
           "referer": "",
           "origin": "",
           "cookie": "",
-          "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/5ad984f0057df6091dacf2e71a1956bb",
-          "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/5ad984f0057df6091dacf2e71a1956bb",
+          "thumbnail": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F04%2FDamac-vs-Al-Nassr-copy.jpg&w=1920&q=75",
+          "event_image": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F04%2FDamac-vs-Al-Nassr-copy.jpg&w=1920&q=75",
           "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
           "event_url": "",
           "views": "99.7K views",
@@ -183,7 +183,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -191,7 +191,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/223602.m3u8",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -199,7 +199,49 @@
             },
             {
               "name": "SERVER 3",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42680.m3u8",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+                {
+          "name": "Thmanyah 2",
+          "subtitle": "Thmanyah 2",
+          "logo": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F10%2FAl-Hilal-vs-Al-Fayha.jpg&w=1920&q=75",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F10%2FAl-Hilal-vs-Al-Fayha.jpg&w=1920&q=75",
+          "event_image": "https://khelnow.com/_next/image?url=https%3A%2F%2Fassets.khelnow.com%2Fnews%2Fuploads%2F2024%2F10%2FAl-Hilal-vs-Al-Fayha.jpg&w=1920&q=75",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
