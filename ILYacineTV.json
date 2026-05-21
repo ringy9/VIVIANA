@@ -1736,7 +1736,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
+            "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
