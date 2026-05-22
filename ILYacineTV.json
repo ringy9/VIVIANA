@@ -2049,69 +2049,50 @@
   ],
   "matches": [
   {
-    "team1": "الحزم",
-    "team2": "التعاون",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101911.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/205686.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
+    "team1": "USM Alger",
+    "team2": "Paradou AC",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316408.png",
+    "time": "18:00",
+    "status": "الدوري الجزائري",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الاتحاد",
-    "team2": "القادسية",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101919.png",
+    "team1": "MAS Fes",
+    "team2": "Ittihad Tanger",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102043.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/316657.png",
     "time": "19:00",
-    "status": "دوري روشن السعودي",
+    "status": "البطولة المغربية الاحترافية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الخلود",
-    "team2": "الفتح",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/1523706.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/177356.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
+    "team1": "Kawkab Marrakech",
+    "team2": "CODM Meknes",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102042.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102032.png",
+    "time": "21:00",
+    "status": "البطولة المغربية الاحترافية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "النصر",
-    "team2": "ضمك",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/582823.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
+    "team1": "Fiorentina",
+    "team2": "Atalanta",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8535.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8524.png",
+    "time": "19:45",
+    "status": "الدوري الإيطالي",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الرياض",
-    "team2": "الأخدود",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/582739.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/142018.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "الفيحاء",
-    "team2": "الهلال",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/582749.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/2529.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "نيوم",
-    "team2": "الاتفاق",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/1699505.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
-    "time": "19:00",
-    "status": "دوري روشن السعودي",
+    "team1": "Lens",
+    "team2": "Nice",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9831.png",
+    "time": "20:00",
+    "status": "نهائي كأس فرنسا",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
-
 
 
 
