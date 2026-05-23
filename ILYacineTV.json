@@ -183,7 +183,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+              "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -225,7 +225,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318198",
+              "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
               "user_agent": "",
               "referer": "",
               "origin": "",
