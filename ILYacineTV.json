@@ -161,11 +161,56 @@
   ],
   "categories": [
     {
-      "id": "match_live_1",
-      "name": "تغطية حية - EVENT LIVE",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
+      "id": "world_cup_2026",
+      "name": "مباريات كاس العالم 2026",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/fifaworldcup2026.png?raw=true",
       "channels": [
         {
+          "name": "as far rabat vs mamelodi sundowns fc ",
+          "subtitle": "beIN SPORTS 1",
+          "logo": "https://i.ytimg.com/vi/K3x-kqxor-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbn1JBckoSdk8sn1n5mqVGADZeZA",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://i.ytimg.com/vi/K3x-kqxor-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbn1JBckoSdk8sn1n5mqVGADZeZA",
+          "event_image": "https://i.ytimg.com/vi/K3x-kqxor-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbn1JBckoSdk8sn1n5mqVGADZeZA",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 2",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            },
+            {
+              "name": "SERVER 3",
+              "url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+
+      ]
+    },
+            {
           "name": "as far rabat vs mamelodi sundowns fc ",
           "subtitle": "beIN SPORTS 1",
           "logo": "https://i.ytimg.com/vi/K3x-kqxor-8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDbn1JBckoSdk8sn1n5mqVGADZeZA",
