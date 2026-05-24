@@ -37,7 +37,7 @@
     "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 30,
     "levelplay": {
-      "enabled": true,
+      "enabled": false,
       "app_key": "264ce813d",
       "banner_ad_unit": "12koc6mzc816f9nd",
       "interstitial_ad_unit": "kmmof90rk2irgz0n",
