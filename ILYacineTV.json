@@ -325,7 +325,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
+              "url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -333,7 +333,7 @@
             },
             {
               "name": "SERVER 2",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325793",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -367,7 +367,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325794",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -409,7 +409,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h55.metava.online/live/645587700/index.m3u8?t=pcl3DYqRtVQLbTV95WaXnQ&e=1779570996",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325795",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -451,7 +451,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h54.vidoedgeflux.online/live/9787488847/index.m3u8?t=y7_-LkyE0kRHFqRlZBVSqQ&e=1779573722",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325796",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -493,7 +493,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325797",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -535,7 +535,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h42.playvidra.online/live/1515000000/index.m3u8?t=qA1eKKAQAtGp0jH3s4-I9w&e=1779573685",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325798",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -577,7 +577,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h21.moontajpro.online/live/33523510/index.m3u8?t=Zn-CRTN50n-IYfUxRu6F_Q&e=1779571322",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325799",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -619,7 +619,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42021.m3u8",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325800",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -661,7 +661,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42020.m3u8",
+              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325801",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -2440,7 +2440,7 @@
     "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
     "time": "16:00",
     "status": "الدوري الإنجليزي الممتاز",
-    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/319435"
   },
   {
     "team1": "West Ham",
