@@ -161,9 +161,9 @@
   ],
   "categories": [
     {
-      "id": "world_cup_2026",
-      "name": "مباريات كاس العالم 2026",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/fifaworldcup2026.png?raw=true",
+      "id": "match_live_1",
+      "name": "تغطية حية - EVENT LIVE",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
         {
           "name": "BEIN SPORTS 1",
@@ -211,9 +211,9 @@
       ]
     },
     {
-      "id": "match_live_1",
-      "name": "تغطية حية - EVENT LIVE",
-      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
+      "id": "world_cup_2026",
+      "name": "مباريات كاس العالم 2026",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/fifaworldcup2026.png?raw=true",
       "channels": [
         {
           "name": "BEIN SPORTS 1",
