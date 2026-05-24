@@ -1327,7 +1327,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/421785",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1335,7 +1335,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251657.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429516",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1343,7 +1343,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429516",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1369,7 +1369,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/421786",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1377,7 +1377,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251658.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429517",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1385,7 +1385,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429517",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1411,7 +1411,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251659.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429403",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1419,7 +1419,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/251659.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429518",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1427,7 +1427,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429518",
             "user_agent": "",
             "referer": "",
             "origin": "",
