@@ -1460,7 +1460,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418111",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1468,7 +1468,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418111",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1476,7 +1476,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418111",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1502,7 +1502,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418114",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1510,7 +1510,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418114",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1518,7 +1518,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418114",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1544,7 +1544,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418117",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1552,7 +1552,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418117",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1560,7 +1560,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418117",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1586,7 +1586,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418120",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1594,7 +1594,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418120",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1602,7 +1602,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418120",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1628,7 +1628,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418123",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1636,7 +1636,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418123",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1644,7 +1644,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418123",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1670,7 +1670,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418126",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1678,7 +1678,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418126",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -1686,7 +1686,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418126",
             "user_agent": "",
             "referer": "",
             "origin": "",
