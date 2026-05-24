@@ -2342,176 +2342,195 @@
   }
   ],
   "matches": [
+
+   {
+    "team1": "FAR Rabat",
+    "team2": "Mamelodi Sundowns",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102035.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/4530.png",
+    "time": "20:00",
+    "status": "نهائي دوري أبطال إفريقيا",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
   {
-    "team1": "Union Yaacoub El-Mansour",
-    "team2": "Union Touarga Sport",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/1786714.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/320835.png",
-    "time": "17:00",
+    "team1": "Brighton",
+    "team2": "Manchester United",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Burnley",
+    "team2": "Wolves",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Crystal Palace",
+    "team2": "Arsenal",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Fulham",
+    "team2": "Newcastle United",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Liverpool",
+    "team2": "Brentford",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Manchester City",
+    "team2": "Aston Villa",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Nottingham Forest",
+    "team2": "Bournemouth",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Sunderland",
+    "team2": "Chelsea",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Tottenham",
+    "team2": "Everton",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "West Ham",
+    "team2": "Leeds United",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+    "time": "16:00",
+    "status": "الدوري الإنجليزي الممتاز",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
+  },
+  {
+    "team1": "Olympique Dcheira",
+    "team2": "Raja Casablanca",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/59771.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102049.png",
+    "time": "16:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Wydad Casablanca",
-    "team2": "Hassania Agadir",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102050.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102037.png",
-    "time": "19:00",
+    "team1": "RS Berkane",
+    "team2": "Renaissance Zemamra",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102787.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/74953.png",
+    "time": "18:00",
     "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Difaâ El Jadida",
-    "team2": "Olympic Safi",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/102093.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/102099.png",
-    "time": "21:00",
-    "status": "البطولة المغربية الاحترافية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Celta Vigo",
-    "team2": "Sevilla",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Deportivo Alaves",
-    "team2": "Rayo Vallecano",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9866.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Espanyol",
-    "team2": "Real Sociedad",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Getafe",
-    "team2": "Osasuna",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Girona",
-    "team2": "Elche",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Mallorca",
-    "team2": "Real Oviedo",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Real Betis",
-    "team2": "Levante",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8651.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Real Madrid",
-    "team2": "Athletic Club",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+    "team1": "Villarreal",
+    "team2": "Atletico Madrid",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
     "time": "20:00",
     "status": "الدوري الإسباني",
     "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Valencia",
-    "team2": "Barcelona",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
-    "time": "20:00",
-    "status": "الدوري الإسباني",
-    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318198"
+    "team1": "Parma",
+    "team2": "Sassuolo",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
+    "time": "14:00",
+    "status": "الدوري الإيطالي",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Bologna",
-    "team2": "Inter",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+    "team1": "Napoli",
+    "team2": "Udinese",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8600.png",
     "time": "17:00",
     "status": "الدوري الإيطالي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Lazio",
-    "team2": "Pisa",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8543.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9842.png",
+    "team1": "AC Milan",
+    "team2": "Cagliari",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
     "time": "19:45",
     "status": "الدوري الإيطالي",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Bayern Munich",
-    "team2": "VfB Stuttgart",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
-    "time": "19:00",
-    "status": "نهائي كأس ألمانيا",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "team1": "Cremonese",
+    "team2": "Como",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/7804.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+    "time": "19:45",
+    "status": "الدوري الإيطالي",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Al Ittihad Alexandria",
-    "team2": "Ismaily SC",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/100152.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/100157.png",
-    "time": "18:00",
-    "status": "الدوري المصري الممتاز",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "team1": "Hellas Verona",
+    "team2": "Roma",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8685.png",
+    "time": "19:45",
+    "status": "الدوري الإيطالي",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Haras El Hodoud",
-    "team2": "Petrojet",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/100154.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/100158.png",
-    "time": "18:00",
-    "status": "الدوري المصري الممتاز",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "team1": "Lecce",
+    "team2": "Genoa",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
+    "time": "19:45",
+    "status": "الدوري الإيطالي",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   },
   {
-    "team1": "Kahrabaa Ismailia",
-    "team2": "Al Mokawloon Al Arab",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/460999.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/100160.png",
-    "time": "18:00",
-    "status": "الدوري المصري الممتاز",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
-  {
-    "team1": "Modern Sport FC",
-    "team2": "Ghazl Al Mahalla",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/404013.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/100163.png",
-    "time": "18:00",
-    "status": "الدوري المصري الممتاز",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    "team1": "Torino",
+    "team2": "Juventus",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+    "time": "19:45",
+    "status": "الدوري الإيطالي",
+    "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/318197"
   }
 
   ],
