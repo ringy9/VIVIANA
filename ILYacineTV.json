@@ -2550,7 +2550,7 @@
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
   },
   "telegram_popup": {
-  "enabled": true,
+  "enabled": false,
   "show_once": false,
   "title": "انضم إلى قناتنا على تيليجرام",
   "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
