@@ -2551,7 +2551,7 @@
   },
   "telegram_popup": {
   "enabled": true,
-  "show_once": true,
+  "show_once": false,
   "title": "انضم إلى قناتنا على تيليجرام",
   "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
   "button_text": "القناة الرسمية",
