@@ -32,7 +32,7 @@
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
-    "rewarded_enabled": true,
+    "rewarded_enabled": false,
     "app_open_enabled": false,
     "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 30,
