@@ -112,7 +112,7 @@
     "show_interstitial_on_settings_click": true,
     "show_interstitial_on_menu_click": true,
     "show_interstitial_on_player_open": false,
-    "show_interstitial_before_play": true
+    "show_interstitial_before_play": false
   },
   "app_open": {
     "enabled": false,
