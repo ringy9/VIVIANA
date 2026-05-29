@@ -1,10 +1,10 @@
 {
   "countriesInfo" : "https://www.iban.com/country-codes-https://play.google.com/store/apps/details?id=com.ILYacineLive.YTV",
     
-  "PANEL_URL"                : "http://dash.app-yacinetv.live/wp-admin",
+  "PANEL_URL"                : "https://dash.app-yacinetv.live/wp-admin",
   "REST_API_KEY"             : "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
 
-    "PANEL_URL_REDIRECTION"    : "http://dash.app-yacinetv.live/wp-admin",
+    "PANEL_URL_REDIRECTION"    : "https://dash.app-yacinetv.live/wp-admin",
   "REST_API_KEY_REDIRECTION" : "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
   "REDIRECTION_COUNTRIES"    : "",
   
