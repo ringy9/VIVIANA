@@ -183,7 +183,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/328660",
+            "url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -191,7 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/328660",
+            "url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2484,7 +2484,7 @@
   "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/10045.png",
   "time": "17:00",
   "status": "مباراة ودية دولية",
-  "channel_url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/328660"
+  "channel_url": "http://cdn.app-yacinetv.live/hls/channel1.m3u8"
 }
 
 
