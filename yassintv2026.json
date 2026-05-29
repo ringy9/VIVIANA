@@ -23,6 +23,18 @@
     
   },
   
+  "telegram_popup": {
+  "enabled": true,
+  "show_once": true,
+  "title": "انضم إلى قناتنا على تيليجرام",
+  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
+  "icon": "📣",
+  "channel_button": "القناة الرسمية",
+  "support_button": "الدعم الفني",
+  "channel_url": "https://t.me/Ilyas_tv_live",
+  "support_url": "https://t.me/Ilyas_tv_live",
+  "dont_show_again_text": "عدم الإظهار مرة أخرى"
+},
   
   "externalPlayer": {
     "status"         : false,
