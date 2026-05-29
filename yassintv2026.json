@@ -25,9 +25,9 @@
   
   
   "externalPlayer": {
-    "status"         : false,
-    "player_package" : "com.app.Ilyassport",
-    "player_url"     : "https://play.google.com/store/apps/details?id=com.IlyasYTV.player"
+    "status"         : true,
+    "player_package" : "com.ilyas.playerpro",
+    "player_url"     : "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
   
   
@@ -119,7 +119,7 @@
     "id": 1,
     "app_fcm_key": "WVVoU01HTkViM1pNTWxKb1l6Sm5kVmxZUW5kTVdHeG9XVEpzZFZwWVVqSk1iWGh3WkcxVmRtUXpRWFJaVjFKMFlWYzFabGxZUW5kaVIyeHFXVmhTY0dJeU5VcGFSamxxWWpJd2RWbFlRbmRNYm14MlpGYzFiR014VWxjPQ==",
     "api_key": "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
-    "package_name": "com.app.ilyasTVLive",
+    "package_name": "com.ILYacineLive.YTV",
     
     "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
     
