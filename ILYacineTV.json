@@ -2536,7 +2536,7 @@
 
   ],
   "player_bottom": {
-    "enabled": false,
+    "enabled": true,
     "image": "https://i.postimg.cc/CL0Xd3M7/ratyacine.png",
     "text": "تابعنا للحصول على أفضل القنوات",
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
