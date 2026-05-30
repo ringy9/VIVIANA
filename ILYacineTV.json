@@ -2486,6 +2486,15 @@
     "status": "نهائي دوري أبطال أوروبا",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
+    {
+  "team1": "الإكوادور",
+  "team2": "السعودية",
+  "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6706.png",
+  "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6715.png",
+  "time": "00:30",
+  "status": "مباراة ودية دولية",
+  "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+},
   {
     "team1": "FUS Rabat",
     "team2": "FAR Rabat",
@@ -2527,11 +2536,12 @@
 
   ],
   "player_bottom": {
-    "enabled": true,
-    "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/ratyacine.png",
+    "enabled": false,
+    "image": "https://i.postimg.cc/CL0Xd3M7/ratyacine.png",
     "text": "تابعنا للحصول على أفضل القنوات",
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
   },
+  
   "telegram_popup": {
   "enabled": true,
   "show_once": false,
