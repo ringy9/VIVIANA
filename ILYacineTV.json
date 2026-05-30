@@ -63,7 +63,7 @@
     "meta_placement_interstitial": "1584506399769058_1584511526435212",
     "meta_placement_native": "1584506399769058_1584511699768528",
     "placements": {
-      "banner_home": true,
+      "banner_home": false,
       "banner_channels": true,
       "banner_matches": true,
       "banner_settings": true,
@@ -74,7 +74,7 @@
       "native_exit": true,
       "native_interval_channels": 6
     },
-    "show_player_bottom": false,
+    "show_player_bottom": true,
     "primary_network": "admob",
     "mediation_enabled": true,
     "admob_enabled": true,
