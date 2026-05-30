@@ -678,7 +678,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
+              "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DsSQ67wCIovCUqklZFjdve11AuewFwBU5JuKFGzZAgt-FL-4b-r_6vr6HXEBqhsoQeCpMQaCnKWTNxBIW_nK3w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
               "user_agent": "",
               "referer": "",
               "origin": "",
