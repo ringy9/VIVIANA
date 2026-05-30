@@ -42,7 +42,7 @@
   
   "promote":{
       "showDescription" : false,
-      "status"  : true,
+      "status"  : false,
       "preview" : "https://i.postimg.cc/Y91V3Pft/Add-a-subheading-(4).png",
       "url"     : "https://www.yacinetvapp.pro"
      
