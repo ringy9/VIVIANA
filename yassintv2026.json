@@ -33,11 +33,11 @@
     "dont_show_again_text": "عدم الإظهار مرة أخرى"
 },
   
-  "externalPlayer": {
-    "status"         : false,
-    "player_package" : "com.ilyas.playerpro",
-    "player_url"     : "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
-  },
+"externalPlayer": {
+    "status": true,
+    "player_package": "com.ilyas.playerpro",
+    "player_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+},
   
   
   "promote":{
