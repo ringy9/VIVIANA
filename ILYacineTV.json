@@ -197,9 +197,33 @@
             "origin": "",
             "cookie": ""
           },
-          {
+                    {
             "name": "SERVER 3",
-            "url": "https://ilyas-live.b-cdn.net/hls/channel1.m3u8",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 4",
+            "url": "https://match-now.site/stream/ms1/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 5",
+            "url": "https://match-now.site/stream/ms2/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 6",
+            "url": "https://match-now.site/hls/b1/index.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
