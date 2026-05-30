@@ -199,6 +199,14 @@
           },
                     {
             "name": "SERVER 3",
+            "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/pa1ujQYOYGq69-8B5GNYqn21CM396AQrfj_8W5oHTFRD6cyNziszwA8SGIes24-pOtY-74hhFz-1vemmaikvbQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
             "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
             "user_agent": "",
             "referer": "",
