@@ -129,7 +129,7 @@
     "enable_gestures": true
   },
   "player_ads": {
-    "enabled": true,
+    "enabled": false,
     "ad_type": "interstitial",
     "network": "admob",
     "fallback": "rewarded",
