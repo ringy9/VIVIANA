@@ -191,7 +191,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220366",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -199,15 +199,7 @@
           },
                     {
             "name": "SERVER 3",
-            "url": "https://prod-fastly-eu-west-3.video.pscp.tv/Transcoding/v1/hls/pa1ujQYOYGq69-8B5GNYqn21CM396AQrfj_8W5oHTFRD6cyNziszwA8SGIes24-pOtY-74hhFz-1vemmaikvbQ/non_transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/master_dynamic_delta.m3u8?type=live",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -234,7 +226,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/179950",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -242,7 +234,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220364",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/179950",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -276,7 +268,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv/abudhabi_sports_1/abudhabi_sports_1_dash_enc/index.mpd",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/3341",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -284,7 +276,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220364",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/3341",
             "user_agent": "",
             "referer": "",
             "origin": "",
