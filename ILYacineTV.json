@@ -28,7 +28,7 @@
   },
   "ads": {
     "enabled": true,
-    "default_network": "levelplay",
+    "default_network": "admob",
     "banner_enabled": true,
     "native_enabled": true,
     "interstitial_enabled": true,
@@ -37,7 +37,7 @@
     "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 0,
     "levelplay": {
-      "enabled": true,
+      "enabled": false,
       "app_key": "264ce813d",
       "banner_ad_unit": "12koc6mzc816f9nd",
       "interstitial_ad_unit": "kmmof90rk2irgz0n",
@@ -75,7 +75,7 @@
       "native_interval_channels": 6
     },
     "show_player_bottom": true,
-    "primary_network": "levelplay",
+    "primary_network": "admob",
     "mediation_enabled": true,
     "admob_enabled": true,
     "admob_direct_enabled": true,
@@ -89,8 +89,8 @@
     "unity_ads_enabled": true,
     "meta_ads_enabled": true,
     "mediation_networks": [
-      "levelplay",
-      "admob"
+      "admob",
+      ""
     ],
     "banner_network": "admob",
     "native_network": "admob",
@@ -99,7 +99,7 @@
     "interstitial_show_first_click": true,
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 0,
-    "backup_ads_1": "levelplay",
+    "backup_ads_1": "admob",
     "backup_ads_2": "unity_ads",
     "backup_ads_3": "none",
     "fallback_on_no_fill": true,
@@ -129,14 +129,14 @@
     "enable_gestures": true
   },
   "player_ads": {
-    "enabled": true,
+    "enabled": false,
     "ad_type": "interstitial",
     "network": "admob",
     "fallback": "rewarded",
     "fallback_network": "admob",
     "show_before_play": true,
     "timeout_ms": 5000,
-    "show_loading_before_ad": true,
+    "show_loading_before_ad": false,
     "loading_text": "Loading ads...",
     "block_player_until_ad_finished": true,
     "preload_on_screen_open": true,
