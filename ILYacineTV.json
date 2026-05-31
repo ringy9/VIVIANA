@@ -2763,13 +2763,16 @@
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
   },
   
-  "telegram_popup": {
+"telegram_popup": {
   "enabled": true,
   "show_once": false,
+  "reset_key": "v1",
   "title": "انضم إلى قناتنا على تيليجرام",
-  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية على تيليجرام.",
+  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
   "button_text": "القناة الرسمية",
+  "button_url": "https://t.me/Ilyas_tv_live",
   "url": "https://t.me/Ilyas_tv_live",
+  "dont_show_again_text": "عدم الإظهار مرة أخرى",
   "show_do_not_show_again": true
 }
 }
