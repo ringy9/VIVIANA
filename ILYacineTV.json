@@ -35,7 +35,7 @@
     "rewarded_enabled": true,
     "app_open_enabled": true,
     "interstitial_clicks": 3,
-    "min_seconds_between_interstitials": 0,
+    "min_seconds_between_interstitials": 10,
     "levelplay": {
       "enabled": false,
       "app_key": "264ce813d",
@@ -98,7 +98,7 @@
     "rewarded_network": "admob",
     "interstitial_show_first_click": true,
     "interstitial_click_interval": 3,
-    "interstitial_cooldown_seconds": 0,
+    "interstitial_cooldown_seconds": 10,
     "backup_ads_1": "admob",
     "backup_ads_2": "unity_ads",
     "backup_ads_3": "none",
