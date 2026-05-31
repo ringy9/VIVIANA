@@ -89,8 +89,8 @@
     "unity_ads_enabled": false,
     "meta_ads_enabled": false,
     "mediation_networks": [
-      "none",
-      "meta"
+      "admob",
+      ""
     ],
     "banner_network": "admob",
     "native_network": "admob",
