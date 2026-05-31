@@ -2765,7 +2765,7 @@
   
 "telegram_popup": {
   "enabled": true,
-  "show_once": false,
+  "show_once": true,
   "reset_key": "v1",
   "title": "انضم إلى قناتنا على تيليجرام",
   "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
