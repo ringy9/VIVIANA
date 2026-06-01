@@ -54,18 +54,18 @@
     "id": 1,
     "ad_status"      : "on",
     
-    "ad_type"        : "applovin",
-    "ad_type_splash" : "xx",
+    "ad_type"        : "admob",
+    "ad_type_splash" : "admob",
     
-    "backup_ads"     : "xx",
+    "backup_ads"     : "admob",
     
     "admob_publisher_id"             : "pub-3738055180283754",
-    "admob_app_id"                   : "ca-app-pub-3738055180283754~9019620834",
-    "admob_banner_unit_id"           : "xx",
-    "admob_interstitial_unit_id"     : "ca-app-pub-3738055180283754/3257170022",
-    "admob_interstitial_splash"      : "ca-app-pub-3738055180283754/3257170022",
-    "admob_native_unit_id"           : "xx",
-    "admob_app_open_ad_unit_id"      : "ca-app-pub-3738055180283754/7738614167",
+    "admob_app_id"                   : "ca-app-pub-3940256099942544~3347511713",
+    "admob_banner_unit_id"           : "ca-app-pub-3940256099942544/6300978111",
+    "admob_interstitial_unit_id"     : "ca-app-pub-3940256099942544/1033173712",
+    "admob_interstitial_splash"      : "ca-app-pub-3940256099942544/1033173712",
+    "admob_native_unit_id"           : "ca-app-pub-3940256099942544/2247696110",
+    "admob_app_open_ad_unit_id"      : "ca-app-pub-3940256099942544/9257395921",
    
     "ad_manager_banner_unit_id"      : "/6499/example/banner",
     "ad_manager_interstitial_unit_id": "/6499example/interstitial",
