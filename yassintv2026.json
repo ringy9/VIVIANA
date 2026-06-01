@@ -115,7 +115,7 @@
     "mopub_interstitial_splash"     : 0,
     
     
-    "interstitial_ad_interval" : 3,
+    "interstitial_ad_interval" : 1,
     "native_ad_interval"       : 6,
     "native_ad_index"          : 6,
     
