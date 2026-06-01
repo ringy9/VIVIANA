@@ -32,13 +32,10 @@
     "button_url": "https://t.me/Ilyas_tv_live",
     "dont_show_again_text": "عدم الإظهار مرة أخرى"
 },
-  
-"player_config": {
-  "use_external_player": true,
-  "external_player_package": "com.ilyas.playerpro",
-  "player_package": "com.ilyas.playerpro",
-  "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro",
-  "player_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+"externalPlayer": {
+    "status": true,
+    "player_package": "com.ilyas.playerpro",
+    "player_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
 },
   
   
