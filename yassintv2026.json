@@ -34,7 +34,7 @@
 },
   
 "externalPlayer": {
-    "status": false,
+    "status": true,
     "player_package": "com.ilyas.playerpro",
     "player_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
 },
