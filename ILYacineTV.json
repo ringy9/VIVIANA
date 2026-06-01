@@ -37,7 +37,7 @@
     "interstitial_clicks": 3,
     "min_seconds_between_interstitials": 10,
     "levelplay": {
-      "enabled": false,
+      "enabled": true,
       "app_key": "264ce813d",
       "banner_ad_unit": "12koc6mzc816f9nd",
       "interstitial_ad_unit": "kmmof90rk2irgz0n",
@@ -90,7 +90,7 @@
     "meta_ads_enabled": true,
     "mediation_networks": [
       "admob",
-      ""
+      "levelplay"
     ],
     "banner_network": "admob",
     "native_network": "admob",
@@ -100,7 +100,7 @@
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 10,
     "backup_ads_1": "admob",
-    "backup_ads_2": "unity_ads",
+    "backup_ads_2": "levelplay",
     "backup_ads_3": "none",
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
