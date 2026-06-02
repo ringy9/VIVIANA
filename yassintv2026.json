@@ -109,7 +109,7 @@
       "ad_type": "interstitial",
       "show_first_click": true,
       "click_interval": 3,
-      "cooldown_seconds": 30,
+      "cooldown_seconds": 10,
       "loading_text": "Loading ads wait...",
       "max_wait_ms": 800,
       "fallback_ad_type": "none",
