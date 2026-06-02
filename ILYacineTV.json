@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
       {
-        "name": "tunisia vs austria",
-        "subtitle": "beIN SPORTS 1",
-        "logo": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
+        "name": "morocco vs madagascar",
+        "subtitle": "ARRIYADIA",
+        "logo": "https://static.wincomparator.com/wincomparator-event-thumbnails/prod/8494650.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
-        "event_image": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c18087f1-42f6-4bef-8fbe-1ca10acd64d3/2/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg",
+        "thumbnail": "https://static.wincomparator.com/wincomparator-event-thumbnails/prod/8494650.webp",
+        "event_image": "https://static.wincomparator.com/wincomparator-event-thumbnails/prod/8494650.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -2536,8 +2536,8 @@
       {
     "team1": "Morocco",
     "team2": "Madagascar",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10216.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9779.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/5809.png",
     "time": "18:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2545,8 +2545,8 @@
   {
     "team1": "Croatia",
     "team2": "Belgium",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10198.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8269.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/10155.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8263.png",
     "time": "17:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2554,8 +2554,8 @@
   {
     "team1": "Georgia",
     "team2": "Romania",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/9924.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8630.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8268.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/9730.png",
     "time": "18:00",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2564,8 +2564,8 @@
   {
     "team1": "Wales",
     "team2": "Ghana",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/8608.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8730.png",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/5790.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/6714.png",
     "time": "19:45",
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
@@ -2574,7 +2574,7 @@
     "team1": "USM Alger",
     "team2": "CR Belouizdad",
     "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/101628.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/218316.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/101633.png",
     "time": "19:00",
     "status": "الرابطة الجزائرية المحترفة الأولى",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
