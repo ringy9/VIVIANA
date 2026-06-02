@@ -47,7 +47,7 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "",
+    "ad_type": "admob",
     "ad_type_splash": "",
     "backup_ads": "",
 
@@ -93,7 +93,7 @@
     "ironsource_interstitial_placement_name": "q56cz64gpqjbyv19",
     "ironsource_interstitial_splash": "5qp1u27whqqzilm7",
 
-    "interstitial_ad_interval": 3,
+    "interstitial_ad_interval": 6,
     "native_ad_interval": 6,
     "native_ad_index": 6,
 
@@ -101,7 +101,7 @@
   },
 
   "ads_control": {
-    "enabled": false,
+    "enabled": true,
 
     "global_click_ads": {
       "enabled": true,
