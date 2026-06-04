@@ -136,7 +136,7 @@
     "fallback_network": "levelplay",
     "show_before_play": true,
     "timeout_ms": 5000,
-    "show_loading_before_ad": true,
+    "show_loading_before_ad": false,
     "loading_text": "Loading ads...",
     "block_player_until_ad_finished": true,
     "preload_on_screen_open": true,
