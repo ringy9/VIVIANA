@@ -2980,6 +2980,15 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
+      {
+    "team1": "المغرب",
+    "team2": "النرويج",
+    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
+    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
+    "time": "19:00",
+    "status": "مباراة ودية دولية",
+    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+  },
   {
     "team1": "الدنمارك",
     "team2": "أوكرانيا",
@@ -3016,15 +3025,7 @@
     "status": "مباراة ودية دولية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
-  {
-    "team1": "المغرب",
-    "team2": "النرويج",
-    "logo1": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-    "logo2": "https://images.fotmob.com/image_resources/logo/teamlogo/8492.png",
-    "time": "19:00",
-    "status": "مباراة ودية دولية",
-    "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
-  },
+
   {
     "team1": "الإكوادور",
     "team2": "غواتيمالا",
