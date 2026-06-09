@@ -30,6 +30,15 @@
     "button_url": "https://t.me/Ilyas_tv_live",
     "dont_show_again_text": "عدم الإظهار مرة أخرى"
   },
+  "splash": {
+  "enabled": true,
+  "background": "bg_splash_premium",
+  "logo_url": "https://github.com/ringy9/BEIN/blob/main/logo.png?raw=true",
+  "title": "Yacine TV",
+  "subtitle": "LIVE SPORTS • LIVE TV • LIVE STREAMING",
+  "loading_text": "LOADING...",
+  "show_loading": true
+},
 
   "externalPlayer": {
     "status": false,
