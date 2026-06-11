@@ -166,17 +166,17 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
  
-    {
-        "name": "portugal vs nigeria",
-        "subtitle": "portugal vs nigeria",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1zCvxQAlHl1b6k_1ShokAePBo-OhdBuMgg&s",
+  {
+        "name": "Mexico vs South Africa",
+        "subtitle": "FIFA World Cup 2026™",
+        "logo": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1zCvxQAlHl1b6k_1ShokAePBo-OhdBuMgg&s",
-        "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1zCvxQAlHl1b6k_1ShokAePBo-OhdBuMgg&s",
+        "thumbnail": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
+        "event_image": "https://cdn.foot-africa.com/20260610/2f08f89bb2a1260d39e4b3adf1a6fb454643b3a52e3a98ed7bb18a410e36b521-1200-675.webp",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -184,7 +184,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261664",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291494.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -192,50 +192,15 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/220366",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291507.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                     {
-            "name": "SERVER 3",
-            "url": "https://1hls.syrlive.online/bein2/bein2_1080p/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-
-          ]
-        },
-         {
-        "name": "england vs costa rica",
-        "subtitle": "england vs costa rica",
-        "logo": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "event_image": "https://media.zenfs.com/en/playmakerstats_articles_264/580a34b23b05fe47270e3e069a2a2079",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "199.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro:80/Allgoodlotfi/hhDZSxCpeD/261663",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
             "name": "SERVER 2",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291500.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -243,7 +208,15 @@
           },
                     {
             "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291506.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 3",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291512.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -252,7 +225,6 @@
 
           ]
         }
-
       ]
     },
     {
