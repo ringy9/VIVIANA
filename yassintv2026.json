@@ -56,8 +56,8 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "meta",
-    "ad_type_splash": "meta",
+    "ad_type": "fan",
+    "ad_type_splash": "fan",
     "backup_ads": "",
 
     "admob_publisher_id": "pub-3738055180283754",
