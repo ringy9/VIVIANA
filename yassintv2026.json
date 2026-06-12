@@ -114,7 +114,7 @@
 
     "global_click_ads": {
       "enabled": true,
-      "network": "meta",
+      "network": "fan",
       "ad_type": "interstitial",
       "show_first_click": true,
       "click_interval": 3,
@@ -127,7 +127,7 @@
 
     "player_click_ads": {
       "enabled": true,
-      "network": "meta",
+      "network": "fan",
       "ad_type": "interstitial",
       "show_first_click": true,
       "click_interval": 1,
@@ -142,7 +142,7 @@
 
     "banner": {
       "enabled": true,
-      "network": "meta",
+      "network": "fan",
       "show_home": true,
       "show_categories": true,
       "show_player": true,
@@ -151,7 +151,7 @@
 
     "native_ads": {
       "enabled": true,
-      "network": "meta",
+      "network": "fan",
       "show_home": true,
       "show_player": true,
       "show_exit": true,
