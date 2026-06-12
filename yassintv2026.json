@@ -56,8 +56,8 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "admob",
-    "ad_type_splash": "admob",
+    "ad_type": "meta",
+    "ad_type_splash": "meta",
     "backup_ads": "",
 
     "admob_publisher_id": "pub-3738055180283754",
@@ -102,7 +102,7 @@
     "ironsource_interstitial_placement_name": "q56cz64gpqjbyv19",
     "ironsource_interstitial_splash": "5qp1u27whqqzilm7",
 
-    "interstitial_ad_interval": 6,
+    "interstitial_ad_interval": 3,
     "native_ad_interval": 6,
     "native_ad_index": 6,
 
@@ -114,7 +114,7 @@
 
     "global_click_ads": {
       "enabled": true,
-      "network": "admob",
+      "network": "meta",
       "ad_type": "interstitial",
       "show_first_click": true,
       "click_interval": 3,
@@ -127,7 +127,7 @@
 
     "player_click_ads": {
       "enabled": true,
-      "network": "admob",
+      "network": "meta",
       "ad_type": "interstitial",
       "show_first_click": true,
       "click_interval": 1,
@@ -142,7 +142,7 @@
 
     "banner": {
       "enabled": true,
-      "network": "admob",
+      "network": "meta",
       "show_home": true,
       "show_categories": true,
       "show_player": true,
@@ -151,7 +151,7 @@
 
     "native_ads": {
       "enabled": true,
-      "network": "admob",
+      "network": "meta",
       "show_home": true,
       "show_player": true,
       "show_exit": true,
