@@ -109,64 +109,81 @@
     "date_time": "2026"
   },
 
-  "ads_control": {
+"ads_control": {
+  "enabled": true,
+
+  "global_click_ads": {
     "enabled": true,
+    "network": "admob",
+    "ad_type": "interstitial",
+    "show_first_click": true,
+    "click_interval": 3,
+    "cooldown_seconds": 10,
+    "loading_text": "Loading ads wait...",
+    "max_wait_ms": 800,
+    "fallback_enabled": false,
+    "fallback_network": "none"
+  },
 
-    "global_click_ads": {
-      "enabled": true,
-      "network": "admob",
-      "ad_type": "interstitial",
-      "show_first_click": true,
-      "click_interval": 3,
-      "cooldown_seconds": 10,
-      "loading_text": "Loading ads wait...",
-      "max_wait_ms": 800,
-      "fallback_ad_type": "none",
-      "fallback_enabled": false
-    },
+  "player_click_ads": {
+    "enabled": true,
+    "network": "admob",
+    "ad_type": "interstitial",
 
-    "player_click_ads": {
-      "enabled": true,
-      "network": "admob",
-      "ad_type": "interstitial",
-      "show_first_click": true,
-      "click_interval": 1,
-      "cooldown_seconds": 0,
-      "loading_text": "Loading ads wait...",
-      "max_wait_ms": 1500,
-      "show_loading_dialog": true,
-      "block_player_until_ad_finished": true,
-      "fallback_ad_type": "none",
-      "fallback_enabled": false
-    },
+    "show_first_click": true,
+    "click_interval": 1,
+    "cooldown_seconds": 0,
 
-    "banner": {
-      "enabled": true,
-      "network": "admob",
-      "show_home": true,
-      "show_categories": true,
-      "show_player": true,
-      "show_settings": true
-    },
+    "show_loading_dialog": true,
+    "loading_text": "Loading ads wait...",
+    "max_wait_ms": 1500,
 
-    "native_ads": {
-      "enabled": true,
-      "network": "admob",
-      "show_home": true,
-      "show_player": true,
-      "show_exit": true,
-      "interval": 6
-    },
+    "block_player_until_ad_finished": true,
 
-    "rewarded": {
-      "enabled": false,
-      "network": "admob"
-    },
+    "fallback_enabled": true,
+    "fallback_ad_type": "rewarded",
+    "fallback_network": "admob"
+  },
 
-    "app_open": {
-      "enabled": false,
-      "network": "admob",
-      "cooldown_seconds": 300
-    }
+  "banner": {
+    "enabled": true,
+    "network": "admob",
+    "show_home": true,
+    "show_categories": true,
+    "show_player": true,
+    "show_settings": true
+  },
+
+  "native_ads": {
+    "enabled": true,
+    "network": "admob",
+    "fallback_network": "fan",
+
+    "show_home": true,
+    "show_player": true,
+    "show_exit": true,
+
+    "show_channels": true,
+    "insert_after_every": 6,
+
+    "show_if_loaded_only": true,
+    "full_width": true
+  },
+
+  "rewarded": {
+    "enabled": true,
+    "network": "admob",
+
+    "show_before_player_if_interstitial_not_ready": true,
+    "show_on_player_click": false,
+
+    "cooldown_seconds": 0
+  },
+
+  "app_open": {
+    "enabled": false,
+    "network": "admob",
+    "cooldown_seconds": 300
   }
+}
 }
