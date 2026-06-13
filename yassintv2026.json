@@ -1,9 +1,9 @@
 {
-  "PANEL_URL": "https://ilyastv.app-yacinetv.live/wp-admin",
-  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL": "https://dash.app-yacinetv.live/wp-admin",
+  "REST_API_KEY": "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
 
-  "PANEL_URL_REDIRECTION": "https://ilyastv.app-yacinetv.live/wp-admin",
-  "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "PANEL_URL_REDIRECTION": "https://dash.app-yacinetv.live/wp-admin",
+  "REST_API_KEY_REDIRECTION": "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
   "REDIRECTION_COUNTRIES": "",
 
   "status": "ok",
@@ -56,8 +56,8 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "fan",
-    "ad_type_splash": "fan",
+    "ad_type": "admob",
+    "ad_type_splash": "admob",
     "backup_ads": "",
 
     "admob_publisher_id": "pub-3738055180283754",
@@ -114,7 +114,7 @@
 
   "global_click_ads": {
     "enabled": true,
-    "network": "fan",
+    "network": "admob",
     "ad_type": "interstitial",
     "show_first_click": true,
     "click_interval": 5,
@@ -127,7 +127,7 @@
 
   "player_click_ads": {
     "enabled": true,
-    "network": "fan",
+    "network": "admob",
     "ad_type": "interstitial",
 
     "show_first_click": true,
@@ -142,12 +142,12 @@
 
     "fallback_enabled": true,
     "fallback_ad_type": "rewarded",
-    "fallback_network": "fan"
+    "fallback_network": "admob"
   },
 
   "banner": {
     "enabled": true,
-    "network": "fan",
+    "network": "admob",
     "show_home": true,
     "show_categories": true,
     "show_player": true,
@@ -156,7 +156,7 @@
 
   "native_ads": {
     "enabled": true,
-    "network": "fan",
+    "network": "admob",
     "fallback_network": "fan",
 
     "show_home": true,
@@ -172,7 +172,7 @@
 
   "rewarded": {
     "enabled": true,
-    "network": "fan",
+    "network": "admob",
 
     "show_before_player_if_interstitial_not_ready": true,
     "show_on_player_click": false,
