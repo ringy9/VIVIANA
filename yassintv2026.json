@@ -56,8 +56,8 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "admob",
-    "ad_type_splash": "admob",
+    "ad_type": "fan",
+    "ad_type_splash": "fan",
     "backup_ads": "",
 
     "admob_publisher_id": "pub-3738055180283754",
@@ -102,7 +102,7 @@
     "ironsource_interstitial_placement_name": "q56cz64gpqjbyv19",
     "ironsource_interstitial_splash": "5qp1u27whqqzilm7",
 
-    "interstitial_ad_interval": 3,
+    "interstitial_ad_interval": 5,
     "native_ad_interval": 6,
     "native_ad_index": 6,
 
@@ -114,11 +114,11 @@
 
   "global_click_ads": {
     "enabled": true,
-    "network": "admob",
+    "network": "fan",
     "ad_type": "interstitial",
     "show_first_click": true,
-    "click_interval": 3,
-    "cooldown_seconds": 10,
+    "click_interval": 5,
+    "cooldown_seconds": 20,
     "loading_text": "Loading ads wait...",
     "max_wait_ms": 800,
     "fallback_enabled": false,
@@ -127,7 +127,7 @@
 
   "player_click_ads": {
     "enabled": true,
-    "network": "admob",
+    "network": "fan",
     "ad_type": "interstitial",
 
     "show_first_click": true,
@@ -142,12 +142,12 @@
 
     "fallback_enabled": true,
     "fallback_ad_type": "rewarded",
-    "fallback_network": "admob"
+    "fallback_network": "fan"
   },
 
   "banner": {
     "enabled": true,
-    "network": "admob",
+    "network": "fan",
     "show_home": true,
     "show_categories": true,
     "show_player": true,
@@ -156,7 +156,7 @@
 
   "native_ads": {
     "enabled": true,
-    "network": "admob",
+    "network": "fan",
     "fallback_network": "fan",
 
     "show_home": true,
@@ -172,7 +172,7 @@
 
   "rewarded": {
     "enabled": true,
-    "network": "admob",
+    "network": "fan",
 
     "show_before_player_if_interstitial_not_ready": true,
     "show_on_player_click": false,
