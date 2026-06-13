@@ -200,16 +200,8 @@
             "cookie": ""
           },
                     {
-            "name": "SERVER 2",
-            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
             "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -217,6 +209,22 @@
           },
                               {
             "name": "SERVER 4",
+            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291513.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 5",
+            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
             "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
@@ -224,7 +232,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 5",
+            "name": "SERVER 7",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
             "user_agent": "",
             "referer": "",
@@ -232,7 +240,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 6",
+            "name": "SERVER 8",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
             "user_agent": "",
             "referer": "",
