@@ -166,23 +166,24 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
  
-  {
-        "name": "Morocco vs Brazil",
+   {
+        "name": "Germany vs Curaçao",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/germany-vs-curacao.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Morocco%20vs%20Brazil.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/germany-vs-curacao.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/germany-vs-curacao.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
-         {
+
+           {
             "name": "SERVER 1",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
@@ -192,22 +193,22 @@
           },
 
           {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                    {
+                              {
             "name": "SERVER 3",
-            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                              {
+                                        {
             "name": "SERVER 4",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291513.ts",
             "user_agent": "",
@@ -217,6 +218,14 @@
           },
                     {
             "name": "SERVER 5",
+            "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
             "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
             "user_agent": "",
             "referer": "",
@@ -224,7 +233,7 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 6",
+            "name": "SERVER 7",
             "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
             "user_agent": "",
             "referer": "",
@@ -232,7 +241,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 7",
+            "name": "SERVER 8",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
             "user_agent": "",
             "referer": "",
@@ -240,7 +249,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 8",
+            "name": "SERVER 9",
             "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
             "user_agent": "",
             "referer": "",
@@ -251,16 +260,16 @@
           ]
         },
           {
-        "name": "Qatar vs Switzerland",
+        "name": "Netherlands vs Japan",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/netherlands-vs-japan.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Qatar%20vs%20Switzerland.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/netherlands-vs-japan.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/netherlands-vs-japan.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -283,7 +292,7 @@
             "origin": "",
             "cookie": ""
           },
-                                        {
+                              {
             "name": "SERVER 2",
             "url": "http://h51.vidwaves.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
             "user_agent": "",
@@ -327,16 +336,16 @@
           ]
         },
             {
-        "name": "Haiti vs Ecosse",
+        "name": "Ecuador vs Ivory Coast",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/ecuador-vs-ivory-coast.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Haiti%20vs%20Ecosse.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/ecuador-vs-ivory-coast.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/ecuador-vs-ivory-coast.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -396,16 +405,16 @@
         },
 
                     {
-        "name": "Turkey vs Australia",
+        "name": "Tunisia vs Sweden",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/tunisia-vs-sweden.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/Turkey%20vs%20Australia%20match.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/tunisia-vs-sweden.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/tunisia-vs-sweden.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
