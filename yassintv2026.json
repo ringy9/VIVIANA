@@ -34,14 +34,14 @@
   "enabled": true,
   "background": "bg_splash_premium",
   "logo_url": "https://github.com/ringy9/BEIN/blob/main/ilyaslivetag.png?raw=true",
-  "title": "ILYAS TV",
+  "title": "Yacine TV TV",
   "subtitle": "LIVE SPORTS • LIVE TV • LIVE STREAMING",
   "loading_text": "LOADING...",
   "show_loading": true
 },
 
   "externalPlayer": {
-    "status": false,
+    "status": true,
     "player_package": "com.ilyas.playerpro",
     "player_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
   },
