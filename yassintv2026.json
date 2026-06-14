@@ -1,9 +1,9 @@
 {
-  "PANEL_URL": "https://dash.app-yacinetv.live/wp-admin",
-  "REST_API_KEY": "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
+  "PANEL_URL": "https://ilyastv.app-yacinetv.live/wp-admin",
+  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
 
-  "PANEL_URL_REDIRECTION": "https://dash.app-yacinetv.live/wp-admin",
-  "REST_API_KEY_REDIRECTION": "cda11DxUSM3OrbHl4ydukEC1aVRwZ5XiI7gcvPJAQ96qFBotLW",
+  "PANEL_URL_REDIRECTION": "https://ilyastv.app-yacinetv.live/wp-admin",
+  "REST_API_KEY_REDIRECTION": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
   "REDIRECTION_COUNTRIES": "",
 
   "status": "ok",
