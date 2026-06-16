@@ -1,83 +1,37 @@
 {
   "ads": {
     "enabled": true,
-
-    "default_network": "fan",
-
-    "priority": [
-      "admob",
-      "max",
-      "levelplay",
-      "fan",
-      "unity"
-    ],
-
-    "interstitial": {
-      "enabled": true,
-      "show_on_first_player_open": true,
-      "click_interval": 1,
-      "timeout_seconds": 0,
-      "use_rewarded_fallback": true
-    },
-
-    "rewarded": {
-      "enabled": true,
-      "timeout_seconds": 0
-    },
-
-    "banner": {
-      "enabled": true
-    },
-
-    "native": {
-      "enabled": true
-    },
-
+    "default_network": "admob",
+    "fallback_network": "levelplay",
+    "second_fallback_network": "meta",
     "admob": {
-      "enabled": false,
-      "app_id": "",
+      "app_id": "ca-app-pub-9297113109682195~5394855531",
+      "app_open": "",
+      "banner": "",
+      "interstitial": "ca-app-pub-2993602517575056/6514252709",
+      "rewarded": "ca-app-pub-9297113109682195/4251838834",
+      "native_ad": "",
       "app_open_id": "",
-      "interstitial_id": "",
-      "rewarded_id": "",
+      "interstitial_id": "ca-app-pub-2993602517575056/6514252709",
+      "rewarded_id": "ca-app-pub-9297113109682195/4251838834",
       "banner_id": "",
       "native_id": ""
     },
-
-    "max": {
-      "enabled": false,
-      "sdk_key": "YOUR_MAX_SDK_KEY",
-      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
-      "rewarded_id": "YOUR_MAX_REWARDED_ID",
-      "banner_id": "YOUR_MAX_BANNER_ID",
-      "native_id": "YOUR_MAX_NATIVE_ID"
-    },
-
     "levelplay": {
       "enabled": true,
-      "app_key": "265d00c0d",
-      "interstitial_id": "q2j2aqxwfq1z5mi4",
-      "rewarded_id": "pp22ujykg53un8wy",
-      "banner_id": "bzlpl7i87ndc9nik",
-      "native_id": "q13zfv18opyyarfl"
+      "app_key": "2675dd25d",
+      "banner_id": "21g34i5ytcqiehxl",
+      "interstitial_id": "vm0n8g2ff895yzho",
+      "rewarded_id": "h9h85l96x7zvk52p",
+      "native_id": "86ocum66vrtunnn1"
     },
-
-    "fan": {
+    "meta_ads": {
       "enabled": true,
-      "interstitial_id": "1519352679816975_1519353399816903",
-      "rewarded_id": "1519352679816975_1519353636483546",
-      "banner_id": "1519352679816975_1519353299816913",
-      "native_id": "1519352679816975_1519353519816891"
+      "banner_placement": "1519352679816975_1519353299816913",
+      "interstitial_placement": "1519352679816975_1519353399816903",
+      "native_placement": "1519352679816975_1519353519816891",
+      "rewarded_placement": "1519352679816975_1519353636483546"
     },
-
-    "unity": {
-      "enabled": false,
-      "game_id": "YOUR_UNITY_GAME_ID",
-      "test_mode": false,
-      "interstitial_id": "Interstitial_Android",
-      "rewarded_id": "Rewarded_Android",
-      "banner_id": "Banner_Android"
-    },
-
     "placements": {
       "app_open_enabled": true,
       "banner_home": true,
@@ -96,9 +50,79 @@
       "exit_native": true,
       "online_videos_native": true,
       "settings_native": true
+    },
+    "priority": [
+      "admob",
+      "max",
+      "levelplay",
+      "fan",
+      "unity"
+    ],
+    "interstitial": {
+      "enabled": true,
+      "show_on_first_player_open": true,
+      "click_interval": 1,
+      "timeout_seconds": 12,
+      "use_rewarded_fallback": true
+    },
+    "rewarded": {
+      "enabled": true,
+      "timeout_seconds": 12
+    },
+    "banner": {
+      "enabled": true
+    },
+    "native": {
+      "enabled": true
+    },
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "rewarded_id": "YOUR_MAX_REWARDED_ID",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+    "unity": {
+      "enabled": true,
+      "game_id": "6121950",
+      "test_mode": false,
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android",
+      "banner_id": "Banner_Android"
     }
   },
-
+  "ads_config": {
+    "ads_enabled": true,
+    "player_rewarded_enabled": true,
+    "player_interstitial_enabled": true,
+    "rewarded_first": true,
+    "banner_enabled": true,
+    "native_enabled": true,
+    "player_ads_interval": 1,
+    "ad_timeout_ms": 2000
+  },
+  "player_ads": {
+    "enabled": true,
+    "show_before_player": true,
+    "ad_type": "interstitial",
+    "fallback_ad_type": "rewarded",
+    "timeout_ms": 12000
+  },
+  "play_interstitial": {
+    "enabled": false,
+    "interstitial_click_interval": 3,
+    "interstitial_clicks": 0,
+    "cooldown_seconds": 0,
+    "max_wait_ms": 0
+  },
+  "player_open_interstitial": {
+    "enabled": true,
+    "network": "unified",
+    "show_first_open": true,
+    "max_wait_ms": 12000,
+    "show_every_opens": 1
+  },
   "update": {
     "enabled": false,
     "force_update": false,
@@ -119,5 +143,9 @@
   },
   "theme": {
     "default_mode": "dark"
+  },
+  "remote_config": {
+    "enabled": false,
+    "url": ""
   }
 }
