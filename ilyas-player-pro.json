@@ -2,7 +2,7 @@
   "ads": {
     "enabled": true,
 
-    "default_network": "admob",
+    "default_network": "fan",
 
     "priority": [
       "admob",
@@ -63,10 +63,10 @@
 
     "fan": {
       "enabled": true,
-      "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "rewarded_id": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-      "native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      "interstitial_id": "1519352679816975_1519353399816903",
+      "rewarded_id": "1519352679816975_1519353636483546",
+      "banner_id": "1519352679816975_1519353299816913",
+      "native_id": "1519352679816975_1519353519816891"
     },
 
     "unity": {
