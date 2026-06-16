@@ -1,0 +1,123 @@
+{
+  "ads": {
+    "enabled": true,
+
+    "default_network": "admob",
+
+    "priority": [
+      "admob",
+      "max",
+      "levelplay",
+      "fan",
+      "unity"
+    ],
+
+    "interstitial": {
+      "enabled": true,
+      "show_on_first_player_open": true,
+      "click_interval": 3,
+      "timeout_seconds": 5,
+      "use_rewarded_fallback": true
+    },
+
+    "rewarded": {
+      "enabled": true,
+      "timeout_seconds": 5
+    },
+
+    "banner": {
+      "enabled": true
+    },
+
+    "native": {
+      "enabled": true
+    },
+
+    "admob": {
+      "enabled": true,
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "app_open_id": "ca-app-pub-3940256099942544/9257395921",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "native_id": "ca-app-pub-3940256099942544/2247696110"
+    },
+
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "rewarded_id": "YOUR_MAX_REWARDED_ID",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+
+    "levelplay": {
+      "enabled": true,
+      "app_key": "265d00c0d",
+      "interstitial_id": "q2j2aqxwfq1z5mi4",
+      "rewarded_id": "pp22ujykg53un8wy",
+      "banner_id": "bzlpl7i87ndc9nik",
+      "native_id": "q13zfv18opyyarfl"
+    },
+
+    "fan": {
+      "enabled": true,
+      "interstitial_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "rewarded_id": "VID_HD_16_9_46S_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+
+    "unity": {
+      "enabled": false,
+      "game_id": "YOUR_UNITY_GAME_ID",
+      "test_mode": false,
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android",
+      "banner_id": "Banner_Android"
+    },
+
+    "placements": {
+      "app_open_enabled": true,
+      "banner_home": true,
+      "banner_add_url": true,
+      "banner_settings": true,
+      "interstitial_before_player": true,
+      "rewarded_before_player": true,
+      "player_interstitial": true,
+      "player_rewarded": true,
+      "native_exit": true,
+      "native_online_videos": true,
+      "native_settings": true,
+      "home_banner": true,
+      "settings_banner": true,
+      "add_url_banner": true,
+      "exit_native": true,
+      "online_videos_native": true,
+      "settings_native": true
+    }
+  },
+
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "version_code": 2,
+    "title": "New Update Available",
+    "message": "Please update to the latest version for better performance.",
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "Exit App",
+    "message": "Are you sure you want to exit?"
+  },
+  "links": {
+    "privacy_policy": "https://example.com/privacy",
+    "more_apps": "https://play.google.com/store/apps/developer?id=Ilyas",
+    "contact_email": "support@example.com"
+  },
+  "theme": {
+    "default_mode": "dark"
+  }
+}
