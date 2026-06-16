@@ -15,7 +15,7 @@
     "interstitial": {
       "enabled": true,
       "show_on_first_player_open": true,
-      "click_interval": 3,
+      "click_interval": 1,
       "timeout_seconds": 5,
       "use_rewarded_fallback": true
     },
