@@ -1,7 +1,7 @@
 {
   "ads": {
     "enabled": true,
-    "default_network": "admob",
+    "default_network": "meta",
     "fallback_network": "levelplay",
     "second_fallback_network": "meta",
     "admob": {
