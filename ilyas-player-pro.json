@@ -35,12 +35,12 @@
 
     "admob": {
       "enabled": false,
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
-      "app_open_id": "ca-app-pub-3940256099942544/9257395921",
-      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-      "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
-      "banner_id": "ca-app-pub-3940256099942544/6300978111",
-      "native_id": "ca-app-pub-3940256099942544/2247696110"
+      "app_id": "",
+      "app_open_id": "",
+      "interstitial_id": "",
+      "rewarded_id": "",
+      "banner_id": "",
+      "native_id": ""
     },
 
     "max": {
