@@ -90,7 +90,7 @@
     "meta_ads_enabled": true,
     "mediation_networks": [
       "admob",
-      "unity_ads"
+      "levelplay"
     ],
     "banner_network": "admob",
     "native_network": "admob",
@@ -100,7 +100,7 @@
     "interstitial_click_interval": 3,
     "interstitial_cooldown_seconds": 30,
     "backup_ads_1": "admob",
-    "backup_ads_2": "unity_ads",
+    "backup_ads_2": "levelplay",
     "backup_ads_3": "none",
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
