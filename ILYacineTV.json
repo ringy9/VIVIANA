@@ -165,7 +165,7 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-           {
+        {
         "name": "Morocco vs. Scotland",
         "subtitle": "اليوم™",
         "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/morocco-vs-scotland.png?raw=true",
@@ -184,6 +184,14 @@
 
            {
             "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                     {
+            "name": "SERVER 2",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -192,32 +200,8 @@
           },
 
           {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
             "name": "SERVER 3",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295231.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -225,23 +209,63 @@
           },
                               {
             "name": "SERVER 4",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295244.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246127.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295246.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295252.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295254.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 6",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -267,8 +291,16 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-           {
+                 {
             "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                     {
+            "name": "SERVER 2",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -277,32 +309,8 @@
           },
 
           {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
             "name": "SERVER 3",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295231.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -310,23 +318,63 @@
           },
                               {
             "name": "SERVER 4",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295244.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246127.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295246.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295252.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295254.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 6",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -352,8 +400,16 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-           {
+                   {
             "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                     {
+            "name": "SERVER 2",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -362,32 +418,8 @@
           },
 
           {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
             "name": "SERVER 3",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295231.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -395,23 +427,63 @@
           },
                               {
             "name": "SERVER 4",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295244.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246127.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295246.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295252.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295254.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 6",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -437,8 +509,16 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-           {
+                    {
             "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+           {
+            "name": "SERVER 2",
             "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
             "user_agent": "",
             "referer": "",
@@ -447,7 +527,7 @@
           },
 
           {
-            "name": "SERVER 2",
+            "name": "SERVER 3",
             "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
             "user_agent": "",
             "referer": "",
@@ -455,7 +535,7 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 3",
+            "name": "SERVER 4",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -463,7 +543,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 4",
+            "name": "SERVER 5",
             "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
             "user_agent": "",
             "referer": "",
@@ -471,16 +551,8 @@
             "cookie": ""
           },
                     {
-            "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291502.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
             "name": "SERVER 6",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -488,23 +560,39 @@
           },
                               {
             "name": "SERVER 7",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246126.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 8",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246128.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295211.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 9",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295228.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -533,7 +621,24 @@
         "servers": [
 
              {
+            "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+           {
             "name": "SERVER 2",
+            "url": "http://h25.edgevision.online/live/610303030/index.m3u8?t=u2-fBPIfd8CPlaKUWHSEGA&e=1781205093",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 3",
             "url": "http://h32.playstreamx.online/live/610303030/index.m3u8?t=CUqWmnv5Y1HQ60VsVDAp3g&e=1781205093",
             "user_agent": "",
             "referer": "",
@@ -541,7 +646,7 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 3",
+            "name": "SERVER 4",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -549,7 +654,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 4",
+            "name": "SERVER 5",
             "url": "http://h47.videolynx.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
             "user_agent": "",
             "referer": "",
@@ -557,16 +662,8 @@
             "cookie": ""
           },
                     {
-            "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291502.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
             "name": "SERVER 6",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/239672",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295224.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -574,23 +671,39 @@
           },
                               {
             "name": "SERVER 7",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246126.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 8",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246128.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295211.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 9",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295224.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295228.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -599,6 +712,7 @@
 
           ]
         },
+     
 
                     {
         "name": "Turkey vs Paraguay",
@@ -617,8 +731,16 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-                  {
+               {
             "name": "SERVER 1",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295229.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                     {
+            "name": "SERVER 2",
             "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
@@ -627,32 +749,8 @@
           },
 
           {
-            "name": "SERVER 2",
-            "url": "http://core.itsall.pro:80/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
             "name": "SERVER 3",
-            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291503.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/291501.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295231.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -660,23 +758,63 @@
           },
                               {
             "name": "SERVER 4",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://h55.metava.online/live/1515000000/index.m3u8?t=PlPzzg3zTyxwmmrpUBj4jQ&e=1781366064",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                                        {
+                    {
             "name": "SERVER 5",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/105713.ts",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295244.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246127.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295246.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295252.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1295254.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                                         {
-            "name": "SERVER 6",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/253329.ts",
+            "name": "SERVER 11",
+            "url": "http://asmrasmr.live:8080/live/5622096748/5630119840/1246119.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
