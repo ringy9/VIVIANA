@@ -56,7 +56,7 @@
   "ads": {
     "ad_status": "on",
 
-    "ad_type": "admob",
+    "ad_type": "unity",
     "ad_type_splash": "admob",
     "backup_ads": "",
 
