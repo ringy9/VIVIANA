@@ -114,14 +114,15 @@
     "show_interstitial_on_player_open": false,
     "show_interstitial_before_play": true
   },
-  "onboarding_ads": {
+"onboarding_ads": {
   "enabled": true,
-  "interstitial_on_open": true,
-  "interstitial_on_finish": true,
   "native_enabled": true,
   "native_show_on_all_steps_except_welcome": true,
-  "interstitial_timeout_seconds": 5,
-  "native_hide_if_not_loaded": true
+  "native_hide_if_not_loaded": true,
+
+  "interstitial_on_start_button": true,
+  "interstitial_on_finish": true,
+  "interstitial_timeout_seconds": 5
 },
   "app_open": {
     "enabled": true,
