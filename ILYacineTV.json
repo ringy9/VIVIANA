@@ -165,17 +165,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                 {
-        "name": "Portugal vs Uzbekistan",
+        {
+        "name": "Bosnia and Herzegovina vs Qatar",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/portugal-vs-uzbekistan.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/qatar-vs-bosnia-herzegovina.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -286,16 +286,16 @@
         },
              
          {
-        "name": "Ghana vs England",
+        "name": "Switzerland vs Canada",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/ghana-vs-england.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/canada-vs-switzerland.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -398,16 +398,238 @@
      
 
             {
-        "name": "Panama vs Croatia",
+        "name": "Morocco vs Haiti",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/panama-vs-croatia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/haiti-vs-morocco.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+
+           {
+            "name": "SERVER 1",
+            "url": "http://h51.vidwaves.online/live/33523510/index.m3u8?t=4G0k648iJ63qsB-fJYXaRg&e=1781366062",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                       {
+            "name": "SERVER 2",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295232.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 3",
+            "url": "http://h55.vidiqa.online/live/33523510/index.m3u8?t=bGArnM-u7frGLcP3VPoxYw&e=1782293579",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295255.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 5",
+            "url": "http://h55.vidiqa.online/live/33523510/index.m3u8?t=bGArnM-u7frGLcP3VPoxYw&e=1782293579",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295232.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295232.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 8",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295232.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 9",
+            "url": "http://h55.vidiqa.online/live/33523510/index.m3u8?t=bGArnM-u7frGLcP3VPoxYw&e=1782293579",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 10",
+            "url": "http://h55.vidiqa.online/live/33523510/index.m3u8?t=bGArnM-u7frGLcP3VPoxYw&e=1782293579",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://h55.vidiqa.online/live/33523510/index.m3u8?t=bGArnM-u7frGLcP3VPoxYw&e=1782293579",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+     
+
+                    {
+        "name": "Scotland vs Brazil",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/razil-vs-scotland.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+
+                     {
+            "name": "SERVER 1",
+            "url": "http://h34.filmcloudcdn.online/live/918454578001/index.m3u8?t=YnVCqiOBM-dPgTnJb5ulXg&e=1782293617",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                         {
+            "name": "SERVER 2",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295233.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+          {
+            "name": "SERVER 3",
+            "url": "http://h32.playstreamx.online/live/918454578001/index.m3u8?t=ot0Hk-RHqjHfZG-XqDHErw&e=1781904662",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295233.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                    {
+            "name": "SERVER 5",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295227.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 6",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295249.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 7",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295256.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 8",
+            "url": "http://h34.filmcloudcdn.online/live/918454578001/index.m3u8?t=YnVCqiOBM-dPgTnJb5ulXg&e=1782293617",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+         {
+            "name": "SERVER 9",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1295256.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                   {
+            "name": "SERVER 10",
+            "url": "http://h34.filmcloudcdn.online/live/918454578001/index.m3u8?t=YnVCqiOBM-dPgTnJb5ulXg&e=1782293617",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                        {
+            "name": "SERVER 11",
+            "url": "http://h34.filmcloudcdn.online/live/918454578001/index.m3u8?t=YnVCqiOBM-dPgTnJb5ulXg&e=1782293617",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                    {
+        "name": "Czech Republic vs Mexico",
+        "subtitle": "الغد",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/mexico-vs-czechia.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -507,19 +729,17 @@
 
           ]
         },
-     
-
                     {
-        "name": "DR Congo vs Colombia",
+        "name": "South Africa vs South Korea",
         "subtitle": "الغد",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A5/dr-congo-vs-colombia.png?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A6/south-africa-vs-south-korea.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -2113,7 +2333,7 @@
     "name": "الوان سبورت - Alwan Sports",
     "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
     "channels": [
-      {
+        {
         "name": "ALWAN SPORTS 1",
         "subtitle": "Alwan Sports 1",
         "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
@@ -2131,7 +2351,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237015",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2139,7 +2359,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418111",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2147,7 +2367,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418111",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2173,7 +2393,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237018",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2181,7 +2401,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418114",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2189,7 +2409,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418114",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2215,7 +2435,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237021",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2223,7 +2443,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418117",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2231,7 +2451,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418117",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2257,7 +2477,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237024",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2265,7 +2485,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418120",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2273,7 +2493,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418120",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2299,7 +2519,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237027",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2307,7 +2527,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418123",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2315,7 +2535,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418123",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2341,7 +2561,7 @@
         "servers": [
           {
             "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237029",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2349,7 +2569,7 @@
           },
           {
             "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418126",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -2357,7 +2577,7 @@
           },
           {
             "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/418126",
+            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
