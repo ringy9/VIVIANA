@@ -32,7 +32,7 @@
     "admob_limit_mode": true,
 
     "default_network": "levelplay",
-    "primary_network": "yandex",
+    "primary_network": "admob",
     "mediation_enabled": true,
 
     "banner_enabled": true,
@@ -48,20 +48,20 @@
     "min_seconds_between_interstitials": 30,
 
     "fallback_order_limit_mode": [
-      "vungle_liftoff",
-      "yandex",
+      "admob",
+      "levelplay",
       "meta",
       "unity_ads",
-      "levelplay",
-      "admob"
+      "vungle_liftoff",
+      "yandex"
     ],
     "fallback_order_normal": [
-      "vungle_liftoff",
-      "yandex",
       "admob",
+      "levelplay",
+      "vungle_liftoff",
       "meta",
       "unity_ads",
-      "levelplay"
+      "yandex"
     ],
 
     "levelplay": {
@@ -88,7 +88,7 @@
     "admob_direct_enabled": true,
     "admob_banner_enabled": true,
     "admob_interstitial_enabled": true,
-    "admob_native_enabled": false,
+    "admob_native_enabled": true,
     "admob_rewarded_enabled": true,
     "admob_app_open_enabled": false,
 
@@ -124,24 +124,24 @@
 
     "mediation_networks": [
       "admob",
-      "vungle_liftoff",
+      "levelplay",
       "meta",
       "unity_ads",
-      "yandex",
-      "levelplay"
+      "vungle_liftoff",
+      "yandex"
     ],
 
     "banner_network": "admob",
     "native_network": "admob",
-    "interstitial_network": "vungle_liftoff",
-    "rewarded_network": "vungle_liftoff",
+    "interstitial_network": "admob",
+    "rewarded_network": "admob",
 
     "interstitial_show_first_click": true,
     "show_first_ready_ad": true,
     "preload_all_networks": true,
 
-    "backup_ads_1": "vungle_liftoff",
-    "backup_ads_2": "meta",
+    "backup_ads_1": "admob",
+    "backup_ads_2": "levelplay",
     "backup_ads_3": "unity_ads",
 
     "fallback_on_no_fill": true,
