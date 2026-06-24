@@ -13,9 +13,9 @@
     "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
   "update": {
-    "enabled": false,
-    "force": false,
-    "version_code": 2,
+    "enabled": true,
+    "force": true,
+    "version_code": 5,
     "title": "تحديث جديد متاح",
     "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
@@ -28,14 +28,42 @@
   },
   "ads": {
     "enabled": true,
-    "default_network": "admob",
+    "mode": "best_ready_ad",
+    "admob_limit_mode": true,
+
+    "default_network": "levelplay",
+    "primary_network": "levelplay",
+    "mediation_enabled": true,
+
     "banner_enabled": true,
-    "native_enabled": true,
+    "native_enabled": false,
     "interstitial_enabled": true,
     "rewarded_enabled": true,
-    "app_open_enabled": true,
+    "app_open_enabled": false,
+
     "interstitial_clicks": 3,
+    "interstitial_click_interval": 3,
+    "interstitial_click_cooldown_seconds": 30,
+    "interstitial_cooldown_seconds": 30,
     "min_seconds_between_interstitials": 30,
+
+    "fallback_order_limit_mode": [
+      "levelplay",
+      "vungle_liftoff",
+      "meta",
+      "unity_ads",
+      "yandex",
+      "admob"
+    ],
+    "fallback_order_normal": [
+      "admob",
+      "levelplay",
+      "vungle_liftoff",
+      "meta",
+      "unity_ads",
+      "yandex"
+    ],
+
     "levelplay": {
       "enabled": true,
       "app_key": "264ce813d",
@@ -48,84 +76,114 @@
       "rewarded_enabled": true,
       "native_enabled": false
     },
+
     "admob_app_id": "ca-app-pub-9297113109682195~8683874606",
     "admob_banner": "ca-app-pub-3940256099942544/6300978111",
     "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
     "admob_native": "ca-app-pub-3940256099942544/2247696110",
     "admob_rewarded": "ca-app-pub-3940256099942544/5224354917",
     "admob_app_open": "ca-app-pub-3940256099942544/9257395921",
+
+    "admob_enabled": true,
+    "admob_direct_enabled": true,
+    "admob_banner_enabled": true,
+    "admob_interstitial_enabled": true,
+    "admob_native_enabled": false,
+    "admob_rewarded_enabled": true,
+    "admob_app_open_enabled": false,
+
+    "max_enabled": false,
     "max_sdk_key": "",
     "max_banner": "",
     "max_interstitial": "",
     "max_native": "",
     "max_rewarded": "",
-    "meta_placement_banner": "1584506399769058_1584511446435220",
-    "meta_placement_interstitial": "1584506399769058_1584511526435212",
-    "meta_placement_native": "1584506399769058_1584511699768528",
-    "placements": {
-      "banner_home": true,
-      "banner_channels": true,
-      "banner_matches": true,
-      "banner_settings": true,
-      "native_home": false,
-      "native_channels": true,
-      "native_matches": true,
-      "native_player": true,
-      "native_exit": true,
-      "native_interval_channels": 6
-    },
-    "show_player_bottom": true,
-    "primary_network": "admob",
-    "mediation_enabled": true,
-    "admob_enabled": true,
-    "admob_direct_enabled": true,
-    "admob_banner_enabled": true,
-    "admob_interstitial_enabled": true,
-    "admob_native_enabled": true,
-    "admob_rewarded_enabled": true,
-    "admob_app_open_enabled": true,
-    "max_enabled": false,
+
     "levelplay_enabled": true,
     "unity_ads_enabled": true,
     "meta_ads_enabled": true,
+    "vungle_liftoff_enabled": true,
+    "yandex_enabled": true,
+
+    "meta_placement_banner": "1584506399769058_1584511446435220",
+    "meta_placement_interstitial": "1584506399769058_1584511526435212",
+    "meta_placement_native": "1584506399769058_1584511699768528",
+
+    "vungle_app_id": "",
+    "vungle_interstitial_placement": "",
+    "vungle_rewarded_placement": "",
+
+    "unity_game_id": "",
+    "unity_interstitial_placement": "Interstitial_Android",
+    "unity_rewarded_placement": "Rewarded_Android",
+    "unity_test_mode": false,
+
+    "yandex_banner": "",
+    "yandex_interstitial": "",
+    "yandex_rewarded": "",
+
     "mediation_networks": [
-      "admob",
-      "unity_ads"
+      "levelplay",
+      "vungle_liftoff",
+      "meta",
+      "unity_ads",
+      "yandex",
+      "admob"
     ],
-    "banner_network": "admob",
+
+    "banner_network": "levelplay",
     "native_network": "admob",
-    "interstitial_network": "admob",
-    "rewarded_network": "admob",
+    "interstitial_network": "levelplay",
+    "rewarded_network": "levelplay",
+
     "interstitial_show_first_click": true,
-    "interstitial_click_interval": 3,
-    "interstitial_cooldown_seconds": 30,
-    "backup_ads_1": "admob",
-    "backup_ads_2": "unity_ads",
-    "backup_ads_3": "none",
+    "show_first_ready_ad": true,
+    "preload_all_networks": true,
+
+    "backup_ads_1": "levelplay",
+    "backup_ads_2": "meta",
+    "backup_ads_3": "admob",
+
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
     "fallback_on_timeout": true,
+    "timeout_seconds": 5,
+
     "show_interstitial_on_home_click": true,
     "show_interstitial_on_category_click": true,
     "show_interstitial_on_channel_click": true,
     "show_interstitial_on_match_click": true,
     "show_interstitial_on_settings_click": true,
     "show_interstitial_on_menu_click": true,
-    "show_interstitial_on_player_open": false,
-    "show_interstitial_before_play": true
-  },
-"onboarding_ads": {
-  "enabled": true,
-  "native_enabled": true,
-  "native_show_on_all_steps_except_welcome": true,
-  "native_hide_if_not_loaded": true,
+    "show_interstitial_on_player_open": true,
+    "show_interstitial_before_play": true,
 
-  "interstitial_on_start_button": true,
-  "interstitial_on_finish": true,
-  "interstitial_timeout_seconds": 5
-},
-  "app_open": {
+    "show_player_bottom": true,
+
+    "placements": {
+      "banner_home": true,
+      "banner_channels": true,
+      "banner_matches": true,
+      "banner_settings": true,
+      "native_home": false,
+      "native_channels": false,
+      "native_matches": false,
+      "native_player": false,
+      "native_exit": false,
+      "native_interval_channels": 6
+    }
+  },
+  "onboarding_ads": {
     "enabled": true,
+    "native_enabled": false,
+    "native_show_on_all_steps_except_welcome": false,
+    "native_hide_if_not_loaded": true,
+    "interstitial_on_start_button": true,
+    "interstitial_on_finish": true,
+    "interstitial_timeout_seconds": 5
+  },
+  "app_open": {
+    "enabled": false,
     "min_seconds_between_ads": 300
   },
   "player_config": {
@@ -141,16 +199,18 @@
   "player_ads": {
     "enabled": true,
     "ad_type": "interstitial",
-    "network": "levelplay",
+    "network": "best_ready_ad",
     "fallback": "rewarded",
     "fallback_network": "levelplay",
     "show_before_play": true,
     "timeout_ms": 5000,
-    "show_loading_before_ad": false,
-    "loading_text": "Loading ads...",
+    "show_loading_before_ad": true,
+    "loading_text": "Please wait, Loading Ads...",
     "block_player_until_ad_finished": true,
     "preload_on_screen_open": true,
-    "only_before_play": true
+    "only_before_play": true,
+    "continue_after_ad_closed": true,
+    "continue_if_ad_failed": true
   },
   "menu": [
     {
@@ -168,7 +228,8 @@
       "type": "share",
       "url": "https://www.yacinetvapp.pro"
     }
-  ],
+  ]
+},
   "categories": [
     {
       "id": "match_live_1",
