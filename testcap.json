@@ -13,8 +13,8 @@
     "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
   "update": {
-    "enabled": true,
-    "force": true,
+    "enabled": false,
+    "force": false,
     "version_code": 5,
     "title": "تحديث جديد متاح",
     "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
@@ -31,7 +31,7 @@
     "mode": "best_ready_ad",
     "admob_limit_mode": true,
 
-    "default_network": "levelplay",
+    "default_network": "admob",
     "primary_network": "levelplay",
     "mediation_enabled": true,
 
@@ -48,12 +48,12 @@
     "min_seconds_between_interstitials": 30,
 
     "fallback_order_limit_mode": [
-      "levelplay",
+      "admob",
       "vungle_liftoff",
       "meta",
       "unity_ads",
       "yandex",
-      "admob"
+      "levelplay"
     ],
     "fallback_order_normal": [
       "admob",
@@ -123,26 +123,26 @@
     "yandex_rewarded": "R-M-19494625-3",
 
     "mediation_networks": [
-      "levelplay",
+      "admob",
       "vungle_liftoff",
       "meta",
       "unity_ads",
       "yandex",
-      "admob"
+      "levelplay"
     ],
 
-    "banner_network": "levelplay",
+    "banner_network": "admob",
     "native_network": "admob",
-    "interstitial_network": "levelplay",
-    "rewarded_network": "levelplay",
+    "interstitial_network": "admob",
+    "rewarded_network": "admob",
 
     "interstitial_show_first_click": true,
     "show_first_ready_ad": true,
     "preload_all_networks": true,
 
-    "backup_ads_1": "levelplay",
+    "backup_ads_1": "admob",
     "backup_ads_2": "meta",
-    "backup_ads_3": "admob",
+    "backup_ads_3": "unity_ads",
 
     "fallback_on_no_fill": true,
     "fallback_on_error": true,
