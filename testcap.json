@@ -48,7 +48,7 @@
     "mediation_enabled": true,
 
     "banner_enabled": true,
-    "native_enabled": false,
+    "native_enabled": true,
     "interstitial_enabled": true,
     "rewarded_enabled": true,
     "app_open_enabled": false,
@@ -102,7 +102,7 @@
     "admob_interstitial_enabled": true,
     "admob_native_enabled": true,
     "admob_rewarded_enabled": true,
-    "admob_app_open_enabled": false,
+    "admob_app_open_enabled": true,
 
     "max_enabled": false,
     "max_sdk_key": "",
@@ -178,16 +178,16 @@
       "banner_matches": true,
       "banner_settings": true,
       "native_home": false,
-      "native_channels": false,
-      "native_matches": false,
-      "native_player": false,
-      "native_exit": false,
+      "native_channels": true,
+      "native_matches": true,
+      "native_player": true,
+      "native_exit": true,
       "native_interval_channels": 6
     }
   },
   "onboarding_ads": {
     "enabled": true,
-    "native_enabled": false,
+    "native_enabled": true,
     "native_show_on_all_steps_except_welcome": false,
     "native_hide_if_not_loaded": true,
     "interstitial_on_start_button": true,
@@ -195,7 +195,7 @@
     "interstitial_timeout_seconds": 5
   },
   "app_open": {
-    "enabled": false,
+    "enabled": true,
     "min_seconds_between_ads": 300
   },
   "player_config": {
