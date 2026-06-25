@@ -12,14 +12,32 @@
     "enabled": true,
     "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
-  "update": {
-    "enabled": false,
-    "force": false,
-    "version_code": 5,
-    "title": "تحديث جديد متاح",
-    "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
-    "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
-  },
+
+  
+"update_dialog": {
+  "enabled": true,
+  "force_update": false,
+  "version_code": 5,
+
+  "icon_url": "https://github.com/ringy9/BEIN/blob/main/logo.png?raw=true",
+
+  "title": "تحديث جديد متاح 🚀",
+  "message": "قم بتحديث تطبيق ILYAS TV للحصول على تجربة أفضل، سرعة أكبر، سيرفرات جديدة، وتحسينات مهمة في البث المباشر.",
+
+  "button_text": "تحديث الآن",
+  "later_button_text": "لاحقاً",
+
+  "update_url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld",
+
+  "background_color": "#FFFFFF",
+  "title_color": "#D50000",
+  "message_color": "#333333",
+  "button_color": "#D50000",
+  "button_text_color": "#FFFFFF",
+  "corner_radius": 22
+},
+
+  
   "exit_dialog": {
     "enabled": true,
     "title": "هل تريد الخروج؟",
