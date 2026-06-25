@@ -16,7 +16,7 @@
   
 "update_dialog": {
   "enabled": true,
-  "force_update": true,
+  "force_update": false,
   "version_code": 5,
   "icon_url": "https://github.com/ringy9/BEIN/blob/main/logo.png?raw=true",
   "title": "تحديث جديد متاح 🚀",
