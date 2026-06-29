@@ -121,18 +121,18 @@
     "meta_placement_interstitial": "1584506399769058_1584511526435212",
     "meta_placement_native": "1584506399769058_1584511699768528",
 
-    "vungle_app_id": "6a3bcfb6117a4bef554e148e",
-    "vungle_interstitial_placement": "DEFAULT-5343166",
-    "vungle_rewarded_placement": "REWARD-4762499",
+    "vungle_app_id": "6a41fc7b117a4bef554e8803",
+    "vungle_interstitial_placement": "DEFAULT-7207247",
+    "vungle_rewarded_placement": "REWARDED-6205261",
 
     "unity_game_id": "6110893",
     "unity_interstitial_placement": "Interstitial_Android",
     "unity_rewarded_placement": "Rewarded_Android",
     "unity_test_mode": false,
 
-    "yandex_banner": "R-M-19494625-1",
-    "yandex_interstitial": "R-M-19494625-2",
-    "yandex_rewarded": "R-M-19494625-3",
+    "yandex_banner": "R-M-19516060-3",
+    "yandex_interstitial": "R-M-19516060-1",
+    "yandex_rewarded": "R-M-19516060-2",
 
     "mediation_networks": [
       "admob",
