@@ -78,11 +78,11 @@
 
     "levelplay": {
       "enabled": true,
-      "app_key": "264ce813d",
-      "banner_ad_unit": "12koc6mzc816f9nd",
-      "interstitial_ad_unit": "kmmof90rk2irgz0n",
-      "native_ad_unit": "ej00a78yvs8a8vcm",
-      "rewarded_ad_unit": "6dnuhpqy23fbjsr0",
+      "app_key": "26f1fc605",
+      "banner_ad_unit": "0jdp1kxvg4qqs0co",
+      "interstitial_ad_unit": "9bwf0pr4sunx24zp",
+      "native_ad_unit": "dzwdothemgyl43iq",
+      "rewarded_ad_unit": "myp52fy6a10i0idw",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": true,
