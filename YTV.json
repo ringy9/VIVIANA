@@ -247,7 +247,7 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                                  {
+                            {
         "name": "Brazil vs Japan",
         "subtitle": "اليوم™",
         "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A11/japan-vs-brazil.png?raw=true",
@@ -265,8 +265,7 @@
         "servers": [
 
 
-
-                        {
+                          {
             "name": "SERVER 1",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
@@ -276,7 +275,7 @@
           },
                                     {
             "name": "SERVER 1",
-            "url": "http://het128a.metava.online/live/610303030/index.m3u8?t=W01Bu4xSJYpsXFN8D_nDHA&e=1782776075",
+            "url": "http://het127a.metava.online/live/610303030/index.m3u8?t=DxZ7INnQou1qOFljJNN8dw&e=1782777385",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -355,7 +354,7 @@
 
                         {
             "name": "SERVER 1",
-            "url": "http://het109b.metava.online/live/1515000000/index.m3u8?t=zCb4lBh6gMq2sUmvRosNlA&e=1782770406",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295225.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -363,7 +362,7 @@
           },
                                   {
             "name": "SERVER 1",
-            "url": "http://het109b.metava.online/live/1515000000/index.m3u8?t=zCb4lBh6gMq2sUmvRosNlA&e=1782770406",
+            "url": "http://het124b.metava.online/live/1515000000/index.m3u8?t=W1xdWgbt3jBUtWVkp5tK6w&e=1782778905",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -442,7 +441,7 @@
 
                               {
             "name": "SERVER 1",
-            "url": "http://het133a.metava.online/live/610303030/index.m3u8?t=m3MpXE3KGDCZA36VJ4_Ljw&e=1782750667",
+            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -450,7 +449,7 @@
           },
                                     {
             "name": "SERVER 1",
-            "url": "http://het116b.metava.online/live/33523510/index.m3u8?t=KMxTFUPWa9DNGecdQ-0DfA&e=1782750849",
+            "url": "http://het127a.metava.online/live/610303030/index.m3u8?t=DxZ7INnQou1qOFljJNN8dw&e=1782777385",
             "user_agent": "",
             "referer": "",
             "origin": "",
