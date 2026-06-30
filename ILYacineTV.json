@@ -356,7 +356,6 @@
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
 
-
                               {
             "name": "SERVER 1",
             "url": "http://het131a.metava.online/live/610303030/index.m3u8?t=CcO9csz5zglqHKwGsCQO5g&e=1782794906",
@@ -366,7 +365,7 @@
             "cookie": ""
           },
                                         {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "https://a6.kora-plus.app/live/alwan1.m3u8?token=CDfpkNFpCdfmxVxc6w6QiXX9ook&exp=1782779289",
             "user_agent": "",
             "referer": "",
@@ -374,7 +373,23 @@
             "cookie": ""
           },
                                     {
-            "name": "SERVER 1",
+            "name": "SERVER 3",
+            "url": "http://xtream2018.com:8080/live/0033ericla/ericla0033/76398.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                              {
+            "name": "SERVER 4",
+            "url": "http://xtream2018.com:8080/live/0033ericla/ericla0033/3228.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                              {
+            "name": "SERVER 4",
             "url": "https://a15.kora-plus.app/live/max11.m3u8?token=Nu-oY9ayQ6nC-quIegL0f24MeiU&exp=1782779034",
             "user_agent": "",
             "referer": "",
@@ -382,7 +397,7 @@
             "cookie": ""
           },
                     {
-            "name": "SERVER 2",
+            "name": "SERVER 5",
             "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/4194.ts",
             "user_agent": "",
             "referer": "",
@@ -390,7 +405,7 @@
             "cookie": ""
           },
                               {
-            "name": "SERVER 3",
+            "name": "SERVER 6",
             "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/475.ts",
             "user_agent": "",
             "referer": "",
@@ -400,7 +415,7 @@
 
 
                               {
-            "name": "SERVER 4 en",
+            "name": "SERVER 7 en",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
             "user_agent": "",
             "referer": "",
@@ -408,7 +423,7 @@
             "cookie": ""
           },
          {
-            "name": "SERVER 5 fr",
+            "name": "SERVER 8 fr",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
             "user_agent": "",
             "referer": "",
@@ -416,7 +431,7 @@
             "cookie": ""
           },
                    {
-            "name": "SERVER 6 fr",
+            "name": "SERVER 9 fr",
             "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
             "user_agent": "",
             "referer": "",
@@ -424,7 +439,7 @@
             "cookie": ""
           },
                              {
-            "name": "SERVER 6 fr",
+            "name": "SERVER 10 fr",
             "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
