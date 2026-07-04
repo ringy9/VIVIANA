@@ -471,7 +471,7 @@
 
                                 {
             "name": "SERVER 1",
-            "url": "http://het111a.mediox.online/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
+            "url": "http://het111a.mediox.online:80/live/610303030/index.m3u8?t=IyaBHhkJr6kIRJFobd3D1w&e=1783046229",
             "user_agent": "",
             "referer": "",
             "origin": "",
