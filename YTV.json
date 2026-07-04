@@ -247,17 +247,17 @@
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
-                             {
-        "name": "Morocco vs Canada",
+                         {
+        "name": "Brazil vs Norway",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/canada-vs-morocco.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/brazil-vs-norway.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -276,6 +276,14 @@
             {
             "name": "SERVER 1",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295230.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                      {
+            "name": "SERVER 1",
+            "url": "https://a13.kora-plus.app/live/max2-17532.ts?token=iGXs4flSO9gWDw63_CygrmRO0ZM&exp=1783197437",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -351,16 +359,16 @@
           ]
         },
                            {
-        "name": "Paraguay vs France",
+        "name": "Mexico vs England",
         "subtitle": "اليوم™",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A16/france-vs-paraguay.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A17/mexico-vs-england.jpeg?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -378,14 +386,6 @@
                   {
             "name": "SERVER 1",
             "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295225.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                      {
-            "name": "SERVER 1",
-            "url": "https://a13.kora-plus.app/live/max2-17532.ts?token=iGXs4flSO9gWDw63_CygrmRO0ZM&exp=1783197437",
             "user_agent": "",
             "referer": "",
             "origin": "",
