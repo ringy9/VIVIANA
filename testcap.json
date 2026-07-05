@@ -89,12 +89,12 @@
       "native_enabled": false
     },
 
-    "admob_app_id": "",
-    "admob_banner": "",
-    "admob_interstitial": "",
-    "admob_native": "",
-    "admob_rewarded": "",
-    "admob_app_open": "",
+    "admob_app_id": "ca-app-pub-9297113109682195~6230262776",
+    "admob_banner": "ca-app-pub-9297113109682195/7295932436",
+    "admob_interstitial": "ca-app-pub-9297113109682195/9572787583",
+    "admob_native": "ca-app-pub-9297113109682195/2149628525",
+    "admob_rewarded": "ca-app-pub-9297113109682195/6314023251",
+    "admob_app_open": "ca-app-pub-9297113109682195/3356687426",
 
     "admob_enabled": true,
     "admob_direct_enabled": true,
@@ -121,18 +121,18 @@
     "meta_placement_interstitial": "895522362298657_1555353592982194",
     "meta_placement_native": "895522362298657_1555353662982187",
 
-    "vungle_app_id": "6a41fc7b117a4bef554e8803",
-    "vungle_interstitial_placement": "DEFAULT-7207247",
-    "vungle_rewarded_placement": "REWARDED-6205261",
+    "vungle_app_id": "6a4a5295aa90061ca250f2bb",
+    "vungle_interstitial_placement": "DEFAULT-8603142",
+    "vungle_rewarded_placement": "REWARD-0382738",
 
     "unity_game_id": "6144824",
     "unity_interstitial_placement": "Interstitial_Android",
     "unity_rewarded_placement": "Rewarded_Android",
     "unity_test_mode": false,
 
-    "yandex_banner": "R-M-19516060-3",
-    "yandex_interstitial": "R-M-19516060-1",
-    "yandex_rewarded": "R-M-19516060-2",
+    "yandex_banner": "R-M-19547691-3",
+    "yandex_interstitial": "R-M-19547691-1",
+    "yandex_rewarded": "R-M-19547691-2",
 
     "mediation_networks": [
       "admob",
