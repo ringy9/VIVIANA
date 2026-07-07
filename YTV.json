@@ -89,12 +89,12 @@
       "native_enabled": false
     },
 
-    "admob_app_id": "ca-app-pub-8787914644651926~5994936945",
-    "admob_banner": "ca-app-pub-8787914644651926/4541846391",
-    "admob_interstitial": "ca-app-pub-8787914644651926/2760072424",
-    "admob_native": "ca-app-pub-8787914644651926/9133909089",
-    "admob_rewarded": "ca-app-pub-8787914644651926/3150919276",
-    "admob_app_open": "ca-app-pub-8787914644651926/3228764727",
+    "admob_app_id": "ca-app-pub-9297113109682195~7579276534",
+    "admob_banner": "ca-app-pub-9297113109682195/8641076764",
+    "admob_interstitial": "ca-app-pub-9297113109682195/5903232783",
+    "admob_native": "ca-app-pub-9297113109682195/3277069442",
+    "admob_rewarded": "",
+    "admob_app_open": "",
 
     "admob_enabled": true,
     "admob_direct_enabled": true,
