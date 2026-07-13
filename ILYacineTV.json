@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [  
                             {
-        "name": "Norway vs England",
+        "name": "France vs Spain",
         "subtitle": "beIN SPORTS MAX 1",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/england-vs-norway.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/england-vs-norway.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/england-vs-norway.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -192,7 +192,7 @@
             "cookie": ""
           },  
             {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -200,7 +200,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 1",
+            "name": "SERVER 3",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -208,7 +208,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 1",
+            "name": "SERVER 4",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -216,58 +216,8 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 1",
+            "name": "SERVER 5",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                    {
-            "name": "SERVER 2",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541541.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 3",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/50725.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-
-                              {
-            "name": "SERVER 4 en",
-            "url": "http://103.155.18.186:8000/play/a126/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-         {
-            "name": "SERVER 5 fr",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465944.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                   {
-            "name": "SERVER 6 fr",
-            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                             {
-            "name": "SERVER 6 fr",
-            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -276,23 +226,24 @@
 
           ]
         },
-                           {
-        "name": "Argentina vs Switzerland",
+                              {
+        "name": "France vs Spain",
         "subtitle": "beIN SPORTS MAX 2",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/argentina-vs-switzerland.jpeg?raw=true",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/argentina-vs-switzerland.jpeg?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/A20/argentina-vs-switzerland.jpeg?raw=true",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
         "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "servers": [
-     
+
+
                       {
             "name": "SERVER 1",
             "url": "http://h46.reelpipe.online/live/610303030/index.m3u8?t=maD79xIfaixh9PbB9OujiA&e=1783914779",
@@ -302,7 +253,7 @@
             "cookie": ""
           },  
             {
-            "name": "SERVER 1",
+            "name": "SERVER 2",
             "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -310,7 +261,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 1",
+            "name": "SERVER 3",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -318,7 +269,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 1",
+            "name": "SERVER 4",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -326,58 +277,130 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 1",
+            "name": "SERVER 5",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
-          },
-                    {
+          }
+
+          ]
+        },
+                                    {
+        "name": "France vs Spain",
+        "subtitle": "beIN SPORTS MAX 3",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
+
+
+                      {
+            "name": "SERVER 1",
+            "url": "http://h46.reelpipe.online/live/610303030/index.m3u8?t=maD79xIfaixh9PbB9OujiA&e=1783914779",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },  
+            {
             "name": "SERVER 2",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541541.ts",
+            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                              {
+                      {
             "name": "SERVER 3",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/50725.ts",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
+            {
+            "name": "SERVER 4",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+           {
+            "name": "SERVER 5",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          }
+
+          ]
+        },
+                                    {
+        "name": "France vs Spain",
+        "subtitle": "beIN SPORTS MAX 4",
+        "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+        "user_agent": "",
+        "referer": "",
+        "origin": "",
+        "cookie": "",
+        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_image": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/1.png?raw=true",
+        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "event_url": "",
+        "views": "199.7K views",
+        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+        "servers": [
 
 
-                              {
-            "name": "SERVER 4 en",
-            "url": "http://103.155.18.186:8000/play/a126/index.m3u8",
+                      {
+            "name": "SERVER 1",
+            "url": "http://h46.reelpipe.online/live/610303030/index.m3u8?t=maD79xIfaixh9PbB9OujiA&e=1783914779",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },  
+            {
+            "name": "SERVER 2",
+            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-         {
-            "name": "SERVER 5 fr",
-            "url": "http://asmrasmr.live:8080/live/39495727290/01928238338/1295231.ts",
+                      {
+            "name": "SERVER 3",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                   {
-            "name": "SERVER 6 fr",
-            "url": "http://asmrasmr.live:8080/live/7400273255/4789325799/1295253.m3u8",
+            {
+            "name": "SERVER 4",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-                             {
-            "name": "SERVER 6 fr",
-            "url": "http://5edh.nl/live/toanvu/123456/13869.ts",
+           {
+            "name": "SERVER 5",
+            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
