@@ -185,13 +185,21 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
+            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },  
                                 {
+            "name": "SERVER 2",
+            "url": "http://145.239.5.177/557a/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                          {
             "name": "SERVER 2",
             "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
@@ -262,7 +270,7 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
+            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -339,7 +347,7 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
+            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -408,7 +416,7 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
+            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
             "origin": "",
