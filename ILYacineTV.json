@@ -167,7 +167,7 @@
       "channels": [  
                             {
         "name": "Spain vs Argentina",
-        "subtitle": "beIN SPORTS MAX 2",
+        "subtitle": "beIN SPORTS MAX 1",
         "logo": "https://github.com/ringy9/BEIN/blob/main/fifa/V21/ChatGPT%20Image%20Jul%2019,%202026,%2001_27_26%20AM.png?raw=true",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
@@ -191,8 +191,33 @@
             "origin": "",
             "cookie": ""
           },  
-                                {
+
+                    {
             "name": "SERVER 2",
+            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 3",
+            "url": "http://stream.mcquack.net/72/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+              {
+            "name": "SERVER 4",
+            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                                {
+            "name": "SERVER 5",
             "url": "http://145.239.5.177/557a/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -200,7 +225,7 @@
             "cookie": ""
           },
                                           {
-            "name": "SERVER 2",
+            "name": "SERVER 6",
             "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
@@ -208,7 +233,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 2",
+            "name": "SERVER 7",
             "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
             "user_agent": "",
             "referer": "",
@@ -216,7 +241,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 2",
+            "name": "SERVER 8",
             "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -224,7 +249,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 3",
+            "name": "SERVER 9",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -232,7 +257,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 4",
+            "name": "SERVER 10",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -240,7 +265,7 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 5",
+            "name": "SERVER 11",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
@@ -276,8 +301,35 @@
             "origin": "",
             "cookie": ""
           },  
-                                          {
+                    
+          {
             "name": "SERVER 2",
+            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },              
+          {
+            "name": "SERVER 3",
+            "url": "http://stream.mcquack.net/72/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+
+                       
+          {
+            "name": "SERVER 4",
+            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 5",
             "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
@@ -285,7 +337,7 @@
             "cookie": ""
           },
                {
-            "name": "SERVER 2",
+            "name": "SERVER 6",
             "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
             "user_agent": "",
             "referer": "",
@@ -293,15 +345,15 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 2",
-            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+            "name": "SERVER 7",
+            "url": "https://dellamonic.s3.us-east-2.amazonaws.com/btsport2.m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                       {
-            "name": "SERVER 3",
+            "name": "SERVER 8",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -309,7 +361,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 4",
+            "name": "SERVER 9",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -317,7 +369,7 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 5",
+            "name": "SERVER 10",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
@@ -353,8 +405,33 @@
             "origin": "",
             "cookie": ""
           },  
-                                {
+
+                              {
             "name": "SERVER 2",
+            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+          {
+            "name": "SERVER 3",
+            "url": "http://stream.mcquack.net/72/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                        {
+            "name": "SERVER 4",
+            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },              
+          {
+            "name": "SERVER 5",
             "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
             "user_agent": "",
             "referer": "",
@@ -362,7 +439,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 2",
+            "name": "SERVER 6",
             "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -370,7 +447,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 3",
+            "name": "SERVER 7",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -378,7 +455,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 4",
+            "name": "SERVER 8",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -386,7 +463,7 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 5",
+            "name": "SERVER 9",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
@@ -422,8 +499,32 @@
             "origin": "",
             "cookie": ""
           },  
-                                          {
+                                {
             "name": "SERVER 2",
+            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },                                    
+          {
+            "name": "SERVER 3",
+            "url": "http://stream.mcquack.net/72/index.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },
+                              {
+            "name": "SERVER 4",
+            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
+            "user_agent": "",
+            "referer": "",
+            "origin": "",
+            "cookie": ""
+          },           
+          {
+            "name": "SERVER 5",
             "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
             "user_agent": "",
             "referer": "",
@@ -431,7 +532,7 @@
             "cookie": ""
           },
                                 {
-            "name": "SERVER 2",
+            "name": "SERVER 6",
             "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
             "user_agent": "",
             "referer": "",
@@ -439,7 +540,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 2",
+            "name": "SERVER 7",
             "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
             "user_agent": "",
             "referer": "",
@@ -447,7 +548,7 @@
             "cookie": ""
           },
                       {
-            "name": "SERVER 3",
+            "name": "SERVER 8",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
             "user_agent": "",
             "referer": "",
@@ -455,7 +556,7 @@
             "cookie": ""
           },
             {
-            "name": "SERVER 4",
+            "name": "SERVER 9",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
             "user_agent": "",
             "referer": "",
@@ -463,7 +564,7 @@
             "cookie": ""
           },
            {
-            "name": "SERVER 5",
+            "name": "SERVER 10",
             "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
             "user_agent": "",
             "referer": "",
