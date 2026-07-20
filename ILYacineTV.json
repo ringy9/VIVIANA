@@ -164,7 +164,7 @@
       "id": "match_live_1",
       "name": "تغطية حية - EVENT LIVE",
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
-      "channels": [  
+      "channels": [
                             {
         "name": "Spain vs Argentina",
         "subtitle": "beIN SPORTS MAX 1",
@@ -185,88 +185,39 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },  
-
-                    {
+            {
             "name": "SERVER 2",
-            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-          {
+                      {
             "name": "SERVER 3",
-            "url": "http://stream.mcquack.net/72/index.m3u8",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
-              {
+            {
             "name": "SERVER 4",
-            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                {
-            "name": "SERVER 5",
-            "url": "http://145.239.5.177/557a/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                          {
-            "name": "SERVER 6",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                      {
-            "name": "SERVER 7",
-            "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-            {
-            "name": "SERVER 8",
-            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                      {
-            "name": "SERVER 9",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-            {
-            "name": "SERVER 10",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
            {
-            "name": "SERVER 11",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
+            "name": "SERVER 5",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -295,82 +246,39 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },  
-                    
-          {
-            "name": "SERVER 2",
-            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },              
-          {
-            "name": "SERVER 3",
-            "url": "http://stream.mcquack.net/72/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-                       
-          {
-            "name": "SERVER 4",
-            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 5",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-               {
-            "name": "SERVER 6",
-            "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
             {
-            "name": "SERVER 7",
-            "url": "https://dellamonic.s3.us-east-2.amazonaws.com/btsport2.m3u8",
+            "name": "SERVER 2",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                       {
-            "name": "SERVER 8",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
+            "name": "SERVER 3",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
             {
-            "name": "SERVER 9",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
+            "name": "SERVER 4",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
            {
-            "name": "SERVER 10",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
+            "name": "SERVER 5",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -399,72 +307,39 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },  
-
-                              {
-            "name": "SERVER 2",
-            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://stream.mcquack.net/72/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                        {
-            "name": "SERVER 4",
-            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },              
-          {
-            "name": "SERVER 5",
-            "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
             {
-            "name": "SERVER 6",
-            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+            "name": "SERVER 2",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                       {
-            "name": "SERVER 7",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
+            "name": "SERVER 3",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
             {
-            "name": "SERVER 8",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
+            "name": "SERVER 4",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
            {
-            "name": "SERVER 9",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
+            "name": "SERVER 5",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -493,79 +368,39 @@
 
                       {
             "name": "SERVER 1",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },  
-                                {
-            "name": "SERVER 2",
-            "url": "https://cp11.adabmedia.com/hls2/sport.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },                                    
-          {
-            "name": "SERVER 3",
-            "url": "http://stream.mcquack.net/72/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                              {
-            "name": "SERVER 4",
-            "url": "http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },           
-          {
-            "name": "SERVER 5",
-            "url": "http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/461659.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-                                {
-            "name": "SERVER 6",
-            "url": "http://vca.easy747.com/live/VCKRCW54BM7V02E/Jq3Z9bVbpb/1339213.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
             {
-            "name": "SERVER 7",
-            "url": "https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8",
+            "name": "SERVER 2",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
                       {
-            "name": "SERVER 8",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/540026.ts",
+            "name": "SERVER 3",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
             {
-            "name": "SERVER 9",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541542.ts",
+            "name": "SERVER 4",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           },
            {
-            "name": "SERVER 10",
-            "url": "http://daleplaytv.vip/live/ClienteHectorM2m8Ma/hW8eAXqdNp5c/541548.ts",
+            "name": "SERVER 5",
+            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -582,7 +417,7 @@
       "name": "مباريات كاس العالم 2026",
       "icon": "https://github.com/ringy9/BEIN/blob/main/fifaworldcup2026.png?raw=true",
       "channels": [
-           {
+        {
           "name": "BEIN MAX 1",
           "subtitle": "BEIN MAX 1",
           "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax1.png?raw=true",
@@ -600,31 +435,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h21.nexdium.online/live/1515000000/index.m3u8?t=B-DvmKyIcvPuvwhEGUeE6A&e=1784420183",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het101b.metava.online/live/610303030/index.m3u8?t=cse5ktLNzw3jZbRg0ly3fA&e=1782580005",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -650,31 +461,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het136b.metava.online/live/1515000000/index.m3u8?t=x7iObPOTpuRfLHfGt_6BzA&e=1782683200",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://het135c.metava.online/live/1515000000/index.m3u8?t=MfleHW1kJkJNev9zM5FWwA&e=1782609705",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://het113a.metava.online/live/1515000000/index.m3u8?t=giOr9MJfz5AFOSWNmRZCLA&e=1782580386",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het113a.metava.online/live/1515000000/index.m3u8?t=giOr9MJfz5AFOSWNmRZCLA&e=1782580386",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -700,31 +487,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het119b.metava.online/live/33523510/index.m3u8?t=f2DHvEIvVJcMZ_x_YS-a_Q&e=1782580577",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://het119b.metava.online/live/33523510/index.m3u8?t=f2DHvEIvVJcMZ_x_YS-a_Q&e=1782580577",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://het119b.metava.online/live/33523510/index.m3u8?t=f2DHvEIvVJcMZ_x_YS-a_Q&e=1782580577",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het119b.metava.online/live/33523510/index.m3u8?t=f2DHvEIvVJcMZ_x_YS-a_Q&e=1782580577",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -750,31 +513,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het132c.metava.online/live/918454578001/index.m3u8?t=rO1rh6eTTpY1s4IPwSiy8Q&e=1782580666",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://het132c.metava.online/live/918454578001/index.m3u8?t=rO1rh6eTTpY1s4IPwSiy8Q&e=1782580666",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://het132c.metava.online/live/918454578001/index.m3u8?t=rO1rh6eTTpY1s4IPwSiy8Q&e=1782580666",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het132c.metava.online/live/918454578001/index.m3u8?t=rO1rh6eTTpY1s4IPwSiy8Q&e=1782580666",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -782,7 +521,7 @@
             }
           ]
         },
-                {
+        {
           "name": "BEIN MAX 5",
           "subtitle": "BEIN MAX 5",
           "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
@@ -800,31 +539,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het102c.metava.online/live/69854211/index.m3u8?t=f9N-AZo31eAANRma1qdYsw&e=1782580770",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://het102c.metava.online/live/69854211/index.m3u8?t=f9N-AZo31eAANRma1qdYsw&e=1782580770",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://het102c.metava.online/live/69854211/index.m3u8?t=f9N-AZo31eAANRma1qdYsw&e=1782580770",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het102c.metava.online/live/69854211/index.m3u8?t=f9N-AZo31eAANRma1qdYsw&e=1782580770",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -832,7 +547,7 @@
             }
           ]
         },
-                {
+        {
           "name": "BEIN MAX 6",
           "subtitle": "BEIN MAX 6",
           "logo": "https://github.com/ringy9/BEIN/blob/main/1/beinmax4.png?raw=true",
@@ -850,31 +565,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://het112b.metava.online/live/645587700/index.m3u8?t=s1A-xoxvkdy01h1uokuhRA&e=1782580847",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://het112b.metava.online/live/645587700/index.m3u8?t=s1A-xoxvkdy01h1uokuhRA&e=1782580847",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://het112b.metava.online/live/645587700/index.m3u8?t=s1A-xoxvkdy01h1uokuhRA&e=1782580847",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-                        {
-              "name": "SERVER 4",
-              "url": "http://het112b.metava.online/live/645587700/index.m3u8?t=s1A-xoxvkdy01h1uokuhRA&e=1782580847",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -907,23 +598,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/7339.m3u8",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/7339.m3u8",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/7339.m3u8",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -947,32 +622,14 @@
           "views": "199.7K views",
           "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
           "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://h56.vidflow.online/live/918454578001/index.m3u8?t=r5HmqwWrhXHV-YIJS9axiA&e=1779527072",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-
-                              {
-            "name": "SERVER 3",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/153582",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
- 
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
           ]
         },
         {
@@ -993,23 +650,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/DsSQ67wCIovCUqklZFjdve11AuewFwBU5JuKFGzZAgt-FL-4b-r_6vr6HXEBqhsoQeCpMQaCnKWTNxBIW_nK3w/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h59.datacastx.online/live/69854211/index.m3u8?t=Yes6K_WbrmuMHMUL_YymIg&e=1779527011",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1035,23 +676,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h55.metava.online/live/645587700/index.m3u8?t=pcl3DYqRtVQLbTV95WaXnQ&e=1779570996",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h55.metava.online/live/645587700/index.m3u8?t=pcl3DYqRtVQLbTV95WaXnQ&e=1779570996",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h55.metava.online/live/645587700/index.m3u8?t=pcl3DYqRtVQLbTV95WaXnQ&e=1779570996",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1077,23 +702,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h54.vidoedgeflux.online/live/9787488847/index.m3u8?t=y7_-LkyE0kRHFqRlZBVSqQ&e=1779573722",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h54.vidoedgeflux.online/live/9787488847/index.m3u8?t=y7_-LkyE0kRHFqRlZBVSqQ&e=1779573722",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h54.vidoedgeflux.online/live/9787488847/index.m3u8?t=y7_-LkyE0kRHFqRlZBVSqQ&e=1779573722",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1119,23 +728,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h53.netiq.online/live/610303030/index.m3u8?t=BDdcPvtqE6p2dzB2XGRf7Q&e=1779572369",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1161,23 +754,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h42.playvidra.online/live/1515000000/index.m3u8?t=qA1eKKAQAtGp0jH3s4-I9w&e=1779573685",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h42.playvidra.online/live/1515000000/index.m3u8?t=qA1eKKAQAtGp0jH3s4-I9w&e=1779573685",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h42.playvidra.online/live/1515000000/index.m3u8?t=qA1eKKAQAtGp0jH3s4-I9w&e=1779573685",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1203,23 +780,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://h21.moontajpro.online/live/33523510/index.m3u8?t=Zn-CRTN50n-IYfUxRu6F_Q&e=1779571322",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://h21.moontajpro.online/live/33523510/index.m3u8?t=Zn-CRTN50n-IYfUxRu6F_Q&e=1779571322",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://h21.moontajpro.online/live/33523510/index.m3u8?t=Zn-CRTN50n-IYfUxRu6F_Q&e=1779571322",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1245,23 +806,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325800",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42021.m3u8",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/249187.m3u8",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1287,23 +832,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/325801",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42020.m3u8",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/249188.m3u8",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
@@ -1329,22 +858,6 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
               "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
@@ -1376,22 +889,6 @@
               "referer": "",
               "origin": "",
               "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
             }
           ]
         },
@@ -1413,22 +910,6 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 2",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-              "user_agent": "",
-              "referer": "",
-              "origin": "",
-              "cookie": ""
-            },
-            {
-              "name": "SERVER 3",
               "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
@@ -1460,17 +941,450 @@
               "referer": "",
               "origin": "",
               "cookie": ""
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Entertainment_bein",
+      "name": "ترفيه - beIN Entertainment",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/8.png?raw=true",
+      "channels": [
+        {
+          "name": "cartoon network",
+          "subtitle": "cartoon network",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-              "name": "SERVER 2",
+              "name": "SERVER 1",
               "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
               "origin": "",
               "cookie": ""
-            },
+            }
+          ]
+        },
+        {
+          "name": "Bara3em",
+          "subtitle": "Bara3em",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-              "name": "SERVER 3",
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN BoxOffice 1",
+          "subtitle": "beIN BoxOffice 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN BoxOffice 2",
+          "subtitle": "beIN BoxOffice 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Cartoon Network Arabic",
+          "subtitle": "Cartoon Network Arabic",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN Drama",
+          "subtitle": "beIN Drama",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN GOURMET",
+          "subtitle": "beIN GOURMET",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN Jeem HD",
+          "subtitle": "beIN Jeem HD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "MOVIES 1 PREMIERE",
+          "subtitle": "MOVIES 1 PREMIERE",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "MOVIES 2 ACTION",
+          "subtitle": "MOVIES 2 ACTION",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "MOVIES 3 DRAMA",
+          "subtitle": "MOVIES 3 DRAMA",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "MOVIES 4 FAMILY",
+          "subtitle": "MOVIES 4 FAMILY",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN SERIES 1",
+          "subtitle": "beIN SERIES 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beIN SERIES 2",
+          "subtitle": "beIN SERIES 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Star Action",
+          "subtitle": "Star Action",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Star Movies",
+          "subtitle": "Star Movies",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "beJUNIOR",
+          "subtitle": "beJUNIOR",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
               "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
               "user_agent": "",
               "referer": "",
@@ -1481,1550 +1395,941 @@
         }
       ]
     },
-  {
-    "id": "Entertainment_bein",
-    "name": "ترفيه - beIN Entertainment",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/8.png?raw=true",
-    "channels": [
-      {
-        "name": "cartoon network",
-        "subtitle": "cartoon network",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/0001_AWG_CN_Brand_Logo_1color_Black_4C.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71248",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "Bara3em",
-        "subtitle": "Bara3em",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Bara3em-1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71249",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                  {
-        "name": "beIN BoxOffice 1",
-        "subtitle": "beIN BoxOffice 1",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice1_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                        {
-        "name": "beIN BoxOffice 2",
-        "subtitle": "beIN BoxOffice 2",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/BoxOffice2_DIGITAL_Mono.png.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-         {
-        "name": "Cartoon Network Arabic",
-        "subtitle": "Cartoon Network Arabic",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Cartoon-Network-Arabic-1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71248",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-               {
-        "name": "beIN Drama",
-        "subtitle": "beIN Drama",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Drama_Stacked_nov_2024_200x200.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124867",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                     {
-        "name": "beIN GOURMET",
-        "subtitle": "beIN GOURMET",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/GOURMET_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71229",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                           {
-        "name": "beIN Jeem HD",
-        "subtitle": "beIN Jeem HD",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Jeem-HD-1-01.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71250",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-      {
-        "name": "MOVIES 1 PREMIERE",
-        "subtitle": "MOVIES 1 PREMIERE",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES1_PREMIERE_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124862",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "MOVIES 2 ACTION",
-        "subtitle": "MOVIES 2 ACTION",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES2_ACTION_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124863",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                  {
-        "name": "MOVIES 3 DRAMA",
-        "subtitle": "MOVIES 3 DRAMA",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES3_DRAMA_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124864",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-       {
-        "name": "MOVIES 4 FAMILY",
-        "subtitle": "MOVIES 4 FAMILY",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/MOVIES4_FAMILY_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124865",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-             {
-        "name": "beIN SERIES 1",
-        "subtitle": "beIN SERIES 1",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/SERIES1_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/124866",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+    {
+      "id": "thmanyah",
+      "name": "ثمانية - Thmanyah",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/10.png?raw=true",
+      "channels": [
         {
-        "name": "beIN SERIES 2",
-        "subtitle": "beIN SERIES 2",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/SERIES2_DIGITAL_Mono.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/71226",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-              {
-        "name": "Star Action",
-        "subtitle": "Star Action",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Star_Action_2024-200x200-1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/201901",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-     {
-        "name": "Star Movies",
-        "subtitle": "Star Movies",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/Star_Movies_2024-200x200-1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/179085",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-           {
-        "name": "beJUNIOR",
-        "subtitle": "beJUNIOR",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/beJUNIOR-1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://my.atrupo4k.com:8080/TrgAzyh21/gojghV2xz8OaCOT/237364",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "thmanyah",
-    "name": "ثمانية - Thmanyah",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/10.png?raw=true",
-    "channels": [
-      {
-        "name": "Thmanyah 1",
-        "subtitle": "Thmanyah 1",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/421785",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429516",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429516",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+          "name": "Thmanyah 1",
+          "subtitle": "Thmanyah 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-        "name": "Thmanyah 2",
-        "subtitle": "Thmanyah 2",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/421786",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429517",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429517",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "Thmanyah 3",
-        "subtitle": "Thmanyah 3",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429403",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429518",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://supaapp.xyz:8080/4750034742512197/3177932697568638/429518",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "alwan_sports",
-    "name": "الوان سبورت - Alwan Sports",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
-    "channels": [
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
         {
-        "name": "ALWAN SPORTS 1",
-        "subtitle": "Alwan Sports 1",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.lol/alwan_sport1/tracks-v1a1/mono.m3u8?token=ad53e9fa3ee6636977fc6476ade0a1a18d316fa7-776f614f3473ceea-1782516092-1782512192",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/alwan_sport1fhd/tracks-v1a1/mono.m3u8?token=7d48d44ee65a33a554d6b43d97a28f6de186ee56-f25f677304b52f09-1782516173-1782512273",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151207.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+          "name": "Thmanyah 2",
+          "subtitle": "Thmanyah 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-        "name": "ALWAN SPORTS 2",
-        "subtitle": "Alwan Sports 2",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://so-nn-mf-t.marketplace-io-none-kode-steeeee.lol/alwan_sport2/tracks-v1a1/mono.m3u8?token=7c9cda6938c32a8dcc84b2fc97a066ae9d636da7-051d3ffab6b805ce-1782516244-1782512344",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://so-nn-mf-t.for-sav-ogr-403-cf.baby/alwan_sport2fhd/tracks-v1a1/mono.m3u8?token=a2287c0e98ae865360214585a2ee3465a97ce8fa-e9be8e2eddeb98d2-1782516295-1782512395",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151208.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "ALWAN SPORTS 3",
-        "subtitle": "Alwan Sports 3",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport3/tracks-v1a1/mono.m3u8?token=25881cd900f3407ac7ad64c59b570456180c2f57-e09aa840c5556be149e92d7a4323089f-1782523253-1782512453",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport3/tracks-v1a1/mono.m3u8?token=25881cd900f3407ac7ad64c59b570456180c2f57-e09aa840c5556be149e92d7a4323089f-1782523253-1782512453",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151209.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "ALWAN SPORTS 4",
-        "subtitle": "Alwan Sports 4",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://u2.marketplace-io-none-kode-steeeee.lol/alwan_sport4/tracks-v1a1/mono.m3u8?token=ea1682d47fc4f44de8bbce8fa194d27679c38058-7d1fe6a23c8d4ee99b79d61769e46e17-1782523451-1782512651",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "https://u1.marketplace-io-none-kode-steeeee.lol/alwan_sport4fhd/tracks-v1a1/mono.m3u8?token=e9fa9a8771ef9c20ff802437b683cf96a8c652f3-0a0c294fd513ab72067e728a665b6dfd-1782523499-1782512699",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151210.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "ALWAN SPORTS 5",
-        "subtitle": "Alwan Sports 5",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151211.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "ALWAN SPORTS 6",
-        "subtitle": "Alwan Sports 6",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 2",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-          {
-            "name": "SERVER 3",
-            "url": "http://asmrasmr.live:8080/live/722513455/4146009304/1151212.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "News_Channels",
-    "name": "اخبار - News Channels",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/1.png?raw=true",
-    "channels": [
-      {
-        "name": "Jazeera Arabic",
-        "subtitle": "Jazeera Arabic",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "العربية - alarabiya",
-        "subtitle": "العربية - alarabiya",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "alhadath - الحدث",
-        "subtitle": "alhadath - الحدث",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://live.alarabiya.net/alarabiapublish/alhadath.smil/alarabiapublish/alhadath_720p/chunks.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "العربي - al araby",
-        "subtitle": "العربي - al araby",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "BBC NEWS - عربي",
-        "subtitle": "BBC NEWS - عربي",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://youtu.be/O1pGmVtj2Y8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "Medi1 TV Maroc",
-        "subtitle": "Medi1 TV Maroc",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/corp/83_medi1tv-arabic_g90v4ec_1080p/chunks_dvr.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Arabic_Channels",
-    "name": "قنوات عربية - Arabic Channels",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/2.png?raw=true",
-    "channels": [
-      {
-        "name": "2M Monde",
-        "subtitle": "2M Monde",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "Al Maghribia",
-        "subtitle": "Al Maghribia",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                  {
-        "name": "Chada TV",
-        "subtitle": "Chada TV",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/chunklist_w1712530238.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                        {
-        "name": "Elwatania TV",
-        "subtitle": "Elwatania TV",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "https://livesstream.work.gd:5443/WebRTCApp/streams/stream.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-      {
-        "name": "AL24 News",
-        "subtitle": "AL24 News",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_240p/chunks.m3u8",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-            {
-        "name": "TV3 Algerian TV channel",
-        "subtitle": "TV3 Algerian",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/002/index.m3u8?t=GPOy5__ivxYhqWQ97XZjjQ&e=1779532856",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                 {
-        "name": "TV5 Algerian TV channel",
-        "subtitle": "TV5 Algerian",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/004/index.m3u8?t=ayTMtgE4yWfPQy6g2CNV2g&e=1779536040",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                       {
-        "name": "TV6 Algerian TV channel",
-        "subtitle": "TV6 Algerian",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/3641.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                       {
-        "name": "TV7 Algerian TV channel",
-        "subtitle": "TV7 Algerian",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/069/index.m3u8?t=EgpV0nHL4g1KwZFGPTsrbA&e=1779534607",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
         {
-        "name": "echorouk news",
-        "subtitle": "echorouk news",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/014/index.m3u8?t=vHb2COoDQd3QTsZZUw9Glw&e=1779542903",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-
-                    {
-        "name": "echorouk TV",
-        "subtitle": "echorouk TV",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/092/index.m3u8?t=1yrk2eW1b2R5AYqVQUkCzA&e=1779531481",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                          {
-        "name": "Ennahar TV",
-        "subtitle": "Ennahar TV",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-
-          {
-            "name": "SERVER 3",
-            "url": "http://apk.ch-arabic.buzz/live/092/index.m3u8?t=1yrk2eW1b2R5AYqVQUkCzA&e=1779531481",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Mchannel",
-    "name": "قنوات M - Mchannel",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/3.png?raw=true",
-    "channels": [
-      {
-        "name": "al jazeera",
-        "subtitle": "al jazeera live",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/Ilyastv/refs/heads/main/vid.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "France_Channels",
-    "name": "قنوات فرنسية - France Channels",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/4.png?raw=true",
-    "channels": [
-      {
-        "name": "TF1 FHD",
-        "subtitle": "TF1 FHD",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true2",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251215.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+          "name": "Thmanyah 3",
+          "subtitle": "Thmanyah 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/7/thmanyah.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-        "name": "M6 FHD",
-        "subtitle": "M6 FHD",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "https://tv.streamboxtv.cc/live/testlivestream/testlivestream/475.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                  {
-        "name": "TV5 MONDE FHD",
-        "subtitle": "TV5 Monde FHD",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251232.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
-                        {
-        "name": "arte FHD",
-        "subtitle": "arte FHD",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
-          {
-            "name": "SERVER 1",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/251256.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "id": "Kids_Channels",
-    "name": "قنوات اطفال - Kids Channels",
-    "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/5.png?raw=true",
-    "channels": [
-      {
-        "name": " CN Arabic",
-        "subtitle": " CN Arabic",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
- 
-          {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1270.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      },
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alwan_sports",
+      "name": "الوان سبورت - Alwan Sports",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/9.png?raw=true",
+      "channels": [
+        {
+          "name": "ALWAN SPORTS 1",
+          "subtitle": "Alwan Sports 1",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
             {
-        "name": " Spacetoon",
-        "subtitle": " Spacetoon",
-        "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
-        "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
-        "user_agent": "",
-        "referer": "",
-        "origin": "",
-        "cookie": "",
-        "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
-        "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
-        "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "event_url": "",
-        "views": "99.7K views",
-        "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
-        "servers": [
- 
-          {
-            "name": "SERVER 3",
-            "url": "http://core.itsall.pro/live/Allgoodlotfi/hhDZSxCpeD/1047.ts",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          }
-        ]
-      }
-    ]
-  }
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "ALWAN SPORTS 2",
+          "subtitle": "Alwan Sports 2",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/2.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "ALWAN SPORTS 3",
+          "subtitle": "Alwan Sports 3",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/3.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "ALWAN SPORTS 4",
+          "subtitle": "Alwan Sports 4",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/4.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "ALWAN SPORTS 5",
+          "subtitle": "Alwan Sports 5",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/5.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "ALWAN SPORTS 6",
+          "subtitle": "Alwan Sports 6",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/alwan_sports/6.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "News_Channels",
+      "name": "اخبار - News Channels",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/1.png?raw=true",
+      "channels": [
+        {
+          "name": "Jazeera Arabic",
+          "subtitle": "Jazeera Arabic",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "العربية - alarabiya",
+          "subtitle": "العربية - alarabiya",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/2.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "alhadath - الحدث",
+          "subtitle": "alhadath - الحدث",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/3.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "العربي - al araby",
+          "subtitle": "العربي - al araby",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/4.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "BBC NEWS - عربي",
+          "subtitle": "BBC NEWS - عربي",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/5.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Medi1 TV Maroc",
+          "subtitle": "Medi1 TV Maroc",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/6.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Arabic_Channels",
+      "name": "قنوات عربية - Arabic Channels",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/2.png?raw=true",
+      "channels": [
+        {
+          "name": "2M Monde",
+          "subtitle": "2M Monde",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/2.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Al Maghribia",
+          "subtitle": "Al Maghribia",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Chada TV",
+          "subtitle": "Chada TV",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/4.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Elwatania TV",
+          "subtitle": "Elwatania TV",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/5.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "AL24 News",
+          "subtitle": "AL24 News",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/AL24_News_Logo.svg.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "TV3 Algerian TV channel",
+          "subtitle": "TV3 Algerian",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/6.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "TV5 Algerian TV channel",
+          "subtitle": "TV5 Algerian",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/3.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "TV6 Algerian TV channel",
+          "subtitle": "TV6 Algerian",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/2.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "TV7 Algerian TV channel",
+          "subtitle": "TV7 Algerian",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/4.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "echorouk news",
+          "subtitle": "echorouk news",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "echorouk TV",
+          "subtitle": "echorouk TV",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/9.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "Ennahar TV",
+          "subtitle": "Ennahar TV",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/ARABIC/8.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Mchannel",
+      "name": "قنوات M - Mchannel",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/3.png?raw=true",
+      "channels": [
+        {
+          "name": "al jazeera",
+          "subtitle": "al jazeera live",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/news/1.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "France_Channels",
+      "name": "قنوات فرنسية - France Channels",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/4.png?raw=true",
+      "channels": [
+        {
+          "name": "TF1 FHD",
+          "subtitle": "TF1 FHD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true2",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/5.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "M6 FHD",
+          "subtitle": "M6 FHD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/6.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "TV5 MONDE FHD",
+          "subtitle": "TV5 Monde FHD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/7.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": "arte FHD",
+          "subtitle": "arte FHD",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/8.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Kids_Channels",
+      "name": "قنوات اطفال - Kids Channels",
+      "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/5.png?raw=true",
+      "channels": [
+        {
+          "name": " CN Arabic",
+          "subtitle": " CN Arabic",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/10.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        },
+        {
+          "name": " Spacetoon",
+          "subtitle": " Spacetoon",
+          "logo": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
+          "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
+          "user_agent": "",
+          "referer": "",
+          "origin": "",
+          "cookie": "",
+          "thumbnail": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
+          "event_image": "https://github.com/ringy9/BEIN/blob/main/tv5/9.png?raw=true",
+          "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "event_url": "",
+          "views": "99.7K views",
+          "content": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
+          "servers": [
+            {
+              "name": "SERVER 1",
+              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "user_agent": "",
+              "referer": "",
+              "origin": "",
+              "cookie": ""
+            }
+          ]
+        }
+      ]
+    }
   ],
   "matches": [
-
  {
     "team1": "فرنسا",
     "team2": "إنجلترا",
@@ -3050,17 +2355,16 @@
     "text": "تابعنا للحصول على أفضل القنوات",
     "url": "https://play.google.com/store/apps/details?id=com.jeaoapps.ysntv"
   },
-  
-"telegram_popup": {
-  "enabled": true,
-  "show_once": true,
-  "reset_key": "v2",
-  "title": "انضم إلى قناتنا على تيليجرام",
-  "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
-  "button_text": "القناة الرسمية",
-  "button_url": "https://t.me/Ilyas_tv_live",
-  "url": "https://t.me/Ilyas_tv_live",
-  "dont_show_again_text": "عدم الإظهار مرة أخرى",
-  "show_do_not_show_again": true
-}
+  "telegram_popup": {
+    "enabled": true,
+    "show_once": true,
+    "reset_key": "v2",
+    "title": "انضم إلى قناتنا على تيليجرام",
+    "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
+    "button_text": "القناة الرسمية",
+    "button_url": "https://t.me/Ilyas_tv_live",
+    "url": "https://t.me/Ilyas_tv_live",
+    "dont_show_again_text": "عدم الإظهار مرة أخرى",
+    "show_do_not_show_again": true
+  }
 }
