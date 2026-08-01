@@ -1219,7 +1219,7 @@
           "servers": [
             {
               "name": "SERVER 1",
-              "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+              "url": "http://45.155.90.183:7355/live/MMTVO89S7DY7CNV7SD/P7HIDSPCN580WXH90/181661.ts?token=SRRQUkALGw8bClNWAAUCBARXUVEPVQcIA19RAAYPV1YFDglSUAYJVAoQSEcREERUVFw9XlIUCwEJV1UHBhoWRkFTSmxaBxsPGwNSXVpVDhMZExZeW1MTCgBRWwQCDw0GBw4UEUMKXRcDEFJXVVMGExkTB09CU0NeUAo8VVJAXVBXFAJdRg9VGRtdCjoGAVtQW1VADRQGExwTDxBBFQxaRl5aFBFRCk1HWEYBR1hGBAABCUAbFFVeRV8SEUgVDBZ+cxQUEVYbTVBXQQ0KDEYME0FCQBsUX0JvQwMQRUVTVV5XRBoJEVMbGRtfBR09B1lfW1QBQ19ZX0MTXEEAAgYWHxBbV11aF1ZHZkINAUBeFAMDA1IVSw==",
               "user_agent": "",
               "referer": "",
               "origin": "",
