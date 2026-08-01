@@ -2046,22 +2046,22 @@
     }
   ],
   "matches": [
- {
-    "team1": "فرنسا",
-    "team2": "إنجلترا",
-    "logo1": "https://flagcdn.com/w160/fr.png",
-    "logo2": "https://flagcdn.com/w160/gb-eng.png",
-    "time": "22:00",
-    "status": "كأس العالم 2026 - مباراة تحديد المركز الثالث",
+  {
+    "team1": "ريال مدريد",
+    "team2": "فيورنتينا",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/f/f2/ACF_Fiorentina_2.svg",
+    "time": "17:00",
+    "status": "مباراة ودية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   },
   {
-    "team1": "الأرجنتين",
-    "team2": "إسبانيا",
-    "logo1": "https://flagcdn.com/w160/ar.png",
-    "logo2": "https://flagcdn.com/w160/es.png",
-    "time": "20:00",
-    "status": "كأس العالم 2026 - النهائي",
+    "team1": "أتلتيكو مدريد",
+    "team2": "مانشستر يونايتد",
+    "logo1": "https://upload.wikimedia.org/wikipedia/en/f/f4/Atletico_Madrid_2017_logo.svg",
+    "logo2": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+    "time": "14:00",
+    "status": "مباراة ودية",
     "channel_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
   }
   ],
