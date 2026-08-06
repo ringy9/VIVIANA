@@ -20,12 +20,12 @@
   },
   "fixture_streams": [
     {
-      "fixture_id": 0,
+      "fixture_id": 1,
       "featured": false,
       "servers": [
         {
           "name": "بدل 0 بمعرف المباراة وضع رابط البث هنا",
-          "url": "",
+          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
           "type": "hls",
           "user_agent": "",
           "referer": "",
