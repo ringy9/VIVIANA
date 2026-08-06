@@ -11,13 +11,17 @@
     "base_url": "https://ysntv-football-proxy.hamza-ysntv-2026.workers.dev",
     "timezone": "Africa/Casablanca",
     "season": 2026,
-    "league_ids": [2, 39, 140, 135, 78, 61, 3, 848, 13, 94, 88, 71, 203, 307, 253, 128, 200, 186, 233, 202, 1, 15, 4, 6, 667, 10],
+    "league_ids": [39, 140, 135, 78, 61, 40, 144, 94, 88, 203, 307, 200, 233, 186, 202, 301, 305, 501, 387, 330, 179, 71, 128, 253, 119, 103, 113, 2, 3, 848, 1, 15, 4, 6, 13, 667, 10],
+    "featured_fixture_ids": [],
+    "strong_team_ids": [33, 34, 40, 42, 47, 49, 50, 66, 529, 530, 531, 532, 533, 536, 541, 543, 487, 489, 492, 496, 497, 499, 505, 157, 165, 168, 173, 79, 80, 81, 85, 91],
+    "strong_team_names": ["Real Madrid", "Barcelona", "Atletico Madrid", "Manchester City", "Manchester United", "Liverpool", "Arsenal", "Chelsea", "Tottenham", "Bayern Munich", "Borussia Dortmund", "Paris Saint Germain", "PSG", "Inter", "AC Milan", "Juventus", "Napoli", "Al-Hilal Saudi FC", "Al-Nassr", "Al-Ittihad FC", "Al-Ahli Jeddah", "Al Ahly", "Zamalek SC", "Wydad AC", "Raja Casablanca", "Esperance Tunis", "Al Ain", "Al Sadd"],
     "show_only_configured_leagues": true,
     "live_refresh_seconds": 30
   },
   "fixture_streams": [
     {
       "fixture_id": 0,
+      "featured": false,
       "servers": [
         {
           "name": "بدل 0 بمعرف المباراة وضع رابط البث هنا",
