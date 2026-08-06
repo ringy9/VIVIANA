@@ -6,6 +6,15 @@
     "slogan": "بث مباشر للمباريات",
     "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652"
   },
+  "football_api": {
+    "enabled": true,
+    "base_url": "https://ysntv-football-proxy.hamza-ysntv-2026.workers.dev",
+    "timezone": "Africa/Casablanca",
+    "season": 2026,
+    "league_ids": [],
+    "show_only_configured_leagues": false,
+    "live_refresh_seconds": 30
+  },
   "ads": [
     {
       "id": "ad1",
