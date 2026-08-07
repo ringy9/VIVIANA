@@ -26,7 +26,12 @@
       "cookie": ""
     },
     "show_only_configured_leagues": true,
-    "live_refresh_seconds": 30
+    "live_refresh_seconds": 30,
+    "news_enabled": true,
+    "news_language": "ar",
+    "news_limit": 15,
+    "news_refresh_minutes": 15,
+    "news_default_image": ""
   },
   "fixture_streams": [
     {
@@ -417,7 +422,7 @@
         "enabled": true,
         "network": "admob",
         "fallback_network": "meta",
-        "show_on": ["matches", "leagues", "categories", "highlights", "news", "settings"],
+        "show_on": ["matches", "leagues", "categories", "highlights", "news", "settings", "league_matches", "standings", "about", "privacy"],
         "position": "bottom"
       },
       "interstitial": {
@@ -427,7 +432,7 @@
         "first_click": true,
         "show_every_clicks": 3,
         "min_seconds_between_ads": 0,
-        "show_on_clicks": ["match_click", "highlight_click", "news_click", "category_click"]
+        "show_on_clicks": ["match_click", "highlight_click", "news_click", "category_click", "league_click"]
       },
       "native": {
         "enabled": true,
