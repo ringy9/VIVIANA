@@ -15,17 +15,27 @@
     "featured_fixture_ids": [],
     "strong_team_ids": [33, 34, 40, 42, 47, 49, 50, 66, 529, 530, 531, 532, 533, 536, 541, 543, 487, 489, 492, 496, 497, 499, 505, 157, 165, 168, 173, 79, 80, 81, 85, 91],
     "strong_team_names": ["Real Madrid", "Barcelona", "Atletico Madrid", "Manchester City", "Manchester United", "Liverpool", "Arsenal", "Chelsea", "Tottenham", "Bayern Munich", "Borussia Dortmund", "Paris Saint Germain", "PSG", "Inter", "AC Milan", "Juventus", "Napoli", "Al-Hilal Saudi FC", "Al-Nassr", "Al-Ittihad FC", "Al-Ahli Jeddah", "Al Ahly", "Zamalek SC", "Wydad AC", "Raja Casablanca", "Esperance Tunis", "Al Ain", "Al Sadd"],
+    "default_stream": {
+      "enabled": true,
+      "name": "السيرفر الافتراضي",
+      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "type": "mp4",
+      "user_agent": "",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    },
     "show_only_configured_leagues": true,
     "live_refresh_seconds": 30
   },
   "fixture_streams": [
     {
-      "fixture_id": 1,
+      "fixture_id": 0,
       "featured": false,
       "servers": [
         {
           "name": "بدل 0 بمعرف المباراة وضع رابط البث هنا",
-          "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+          "url": "",
           "type": "hls",
           "user_agent": "",
           "referer": "",
@@ -407,7 +417,7 @@
         "enabled": true,
         "network": "admob",
         "fallback_network": "meta",
-        "show_on": ["matches", "categories", "highlights", "news", "settings"],
+        "show_on": ["matches", "leagues", "categories", "highlights", "news", "settings"],
         "position": "bottom"
       },
       "interstitial": {
