@@ -279,10 +279,10 @@
       "enabled": true,
       "ready": false,
       "managed_by": "levelplay",
-      "game_id_android": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "rewarded_id": ""
+      "game_id_android": "6148517",
+      "banner_id": "Banner_Android",
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android"
     },
     "placements": {
       "banner": {
