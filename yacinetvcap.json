@@ -188,11 +188,11 @@
     "fallback_network": "levelplay",
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-8787914644651926~9974636795",
-      "banner_id": "ca-app-pub-8787914644651926/2395210534",
-      "interstitial_id": "ca-app-pub-8787914644651926/9671065324",
-      "native_id": "ca-app-pub-8787914644651926/6756714682",
-      "app_open_id": "ca-app-pub-8787914644651926/1573083455",
+      "app_id": "ca-app-pub-3738055180283754~3276296333",
+      "banner_id": "ca-app-pub-3738055180283754/9787909968",
+      "interstitial_id": "ca-app-pub-3738055180283754/4344011597",
+      "native_id": "ca-app-pub-3738055180283754/1771642979",
+      "app_open_id": "ca-app-pub-3738055180283754/3525753942",
       "rewarded_id": ""
     },
 
