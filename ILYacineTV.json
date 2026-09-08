@@ -166,16 +166,16 @@
       "icon": "https://github.com/ringy9/BEIN/blob/main/LOGOOSTORA/7.png?raw=true",
       "channels": [
                             {
-        "name": "atletico madrid vs manchester united",
-        "subtitle": "beIN SPORTS MAX 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIRTqT-5Ejcdw5PMSovNdH4ZmwbKs5BYrSM20RyLB-LMFlSx7g8-bfJQA&s=10",
+        "name": "Real Madrid vs Inter",
+        "subtitle": "beIN SPORTS 1",
+        "logo": "https://s.yimg.com/lo/mysterio/api/66b1c4d1595dd1c07b9bdaab061a835d19274016c0b60c7e07ccc728ca0c6518/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F2eef7cc5226d53119c26909c4f6d41e5.jpg",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIRTqT-5Ejcdw5PMSovNdH4ZmwbKs5BYrSM20RyLB-LMFlSx7g8-bfJQA&s=10",
-        "event_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOIRTqT-5Ejcdw5PMSovNdH4ZmwbKs5BYrSM20RyLB-LMFlSx7g8-bfJQA&s=10",
+        "thumbnail": "https://s.yimg.com/lo/mysterio/api/66b1c4d1595dd1c07b9bdaab061a835d19274016c0b60c7e07ccc728ca0c6518/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F2eef7cc5226d53119c26909c4f6d41e5.jpg",
+        "event_image": "https://s.yimg.com/lo/mysterio/api/66b1c4d1595dd1c07b9bdaab061a835d19274016c0b60c7e07ccc728ca0c6518/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F2eef7cc5226d53119c26909c4f6d41e5.jpg",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -185,7 +185,7 @@
 
                       {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4tOlAlgc_p5gRJBgs8qrYMA/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -193,7 +193,7 @@
           },  
             {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4tOlAlgc_p5gRJBgs8qrYMA/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -201,42 +201,27 @@
           },
                       {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-            {
-            "name": "SERVER 4",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-           {
-            "name": "SERVER 5",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4tOlAlgc_p5gRJBgs8qrYMA/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
             "cookie": ""
           }
 
+
           ]
         },
                                     {
-        "name": "atletico madrid vs manchester united",
-        "subtitle": "beIN SPORTS MAX 1",
-        "logo": "https://mrfixitstips.co.uk/thumbor/4Asc9pxu8iggXNSZ2NJNOzWVrA8=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F07%2FManchester-United-v-Atletico-Madrid.png",
+        "name": "Porto vs Man City",
+        "subtitle": "beIN SPORTS 1",
+        "logo": "https://s.yimg.com/lo/mysterio/api/f0c3a3fa040a0bbf3e3b691bbae36efae1a0afba39d359782811b05feea39789/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F282913304339e9862bd4c66087135a41.jpg",
         "url": "http://ipc.proipciptv.com:8000/live/yvyybB3NeYEL/RLTDLX2Nnqd2/42028.m3u8",
         "user_agent": "",
         "referer": "",
         "origin": "",
         "cookie": "",
-        "thumbnail": "https://mrfixitstips.co.uk/thumbor/4Asc9pxu8iggXNSZ2NJNOzWVrA8=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F07%2FManchester-United-v-Atletico-Madrid.png",
-        "event_image": "https://mrfixitstips.co.uk/thumbor/4Asc9pxu8iggXNSZ2NJNOzWVrA8=/1038x580/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F07%2FManchester-United-v-Atletico-Madrid.png",
+        "thumbnail": "https://s.yimg.com/lo/mysterio/api/f0c3a3fa040a0bbf3e3b691bbae36efae1a0afba39d359782811b05feea39789/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F282913304339e9862bd4c66087135a41.jpg",
+        "event_image": "https://s.yimg.com/lo/mysterio/api/f0c3a3fa040a0bbf3e3b691bbae36efae1a0afba39d359782811b05feea39789/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F282913304339e9862bd4c66087135a41.jpg",
         "event_text": "Watch BEIN SPORTS 1 live on ILYAS TV. Choose the best server and enjoy a smooth streaming experience.",
         "event_url": "",
         "views": "199.7K views",
@@ -246,7 +231,7 @@
 
                       {
             "name": "SERVER 1",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4i30aT1rvCi94ymC0zrHAjo/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -254,7 +239,7 @@
           },  
             {
             "name": "SERVER 2",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4i30aT1rvCi94ymC0zrHAjo/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
@@ -262,23 +247,7 @@
           },
                       {
             "name": "SERVER 3",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-            {
-            "name": "SERVER 4",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
-            "user_agent": "",
-            "referer": "",
-            "origin": "",
-            "cookie": ""
-          },
-           {
-            "name": "SERVER 5",
-            "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+            "url": "http://23370wa.xyz/play/lTALu62OOmEVTPjhZLiI4i30aT1rvCi94ymC0zrHAjo/m3u8",
             "user_agent": "",
             "referer": "",
             "origin": "",
