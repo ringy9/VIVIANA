@@ -1,0 +1,493 @@
+{
+  "app": {
+    "name": "YSN TV",
+    "name_ar": "YSN TV",
+    "logo": "https://i.imgur.com/YbF6qSw.png",
+    "slogan": "Football Scores, Statistics & News",
+    "onesignal_app_id": "6bd309ba-4295-4546-99d9-f0441e9ff652"
+  },
+  "football_api": {
+    "enabled": true,
+    "base_url": "https://ysntv-football-proxy.hamza-ysntv-2026.workers.dev",
+    "timezone": "Africa/Casablanca",
+    "season": 2026,
+    "league_ids": [
+      39,
+      140,
+      135,
+      78,
+      61,
+      40,
+      144,
+      94,
+      88,
+      203,
+      307,
+      200,
+      233,
+      186,
+      202,
+      301,
+      305,
+      501,
+      387,
+      330,
+      179,
+      71,
+      128,
+      253,
+      119,
+      103,
+      113,
+      2,
+      3,
+      848,
+      1,
+      15,
+      4,
+      6,
+      13,
+      667,
+      10
+    ],
+    "featured_fixture_ids": [],
+    "strong_team_ids": [
+      33,
+      34,
+      40,
+      42,
+      47,
+      49,
+      50,
+      66,
+      529,
+      530,
+      531,
+      532,
+      533,
+      536,
+      541,
+      543,
+      487,
+      489,
+      492,
+      496,
+      497,
+      499,
+      505,
+      157,
+      165,
+      168,
+      173,
+      79,
+      80,
+      81,
+      85,
+      91
+    ],
+    "strong_team_names": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Paris Saint Germain",
+      "PSG",
+      "Inter",
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Al-Hilal Saudi FC",
+      "Al-Nassr",
+      "Al-Ittihad FC",
+      "Al-Ahli Jeddah",
+      "Al Ahly",
+      "Zamalek SC",
+      "Wydad AC",
+      "Raja Casablanca",
+      "Esperance Tunis",
+      "Al Ain",
+      "Al Sadd"
+    ],
+    "default_stream": {
+      "enabled": true,
+      "name": "Server 1 m3u8",
+      "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+      "type": "m3u8",
+      "user_agent": "",
+      "referer": "",
+      "origin": "",
+      "cookie": ""
+    },
+    "show_only_configured_leagues": true,
+    "live_refresh_seconds": 60,
+    "news_enabled": true,
+    "news_language": "ar",
+    "news_limit": 15,
+    "news_refresh_minutes": 30,
+    "news_default_image": "",
+    "app_token": "",
+    "dynamic_streams_enabled": true,
+    "allow_default_stream_for_all": true,
+    "default_match_image": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true"
+  },
+  "fixture_streams": [
+  {
+    "fixture_id": 1635715,
+    "match_label": "ريال مدريد ضد آيندهوفن",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "m3u8"
+      },
+            {
+        "name": "السيرفر 2",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "m3u8"
+      },
+      {
+        "name": "السيرفر 3",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "m3u8"
+      }
+    ]
+  },
+  {
+    "fixture_id": 1557473,
+    "match_label": "ليفربول ضد مانشستر يونايتد",
+    "thumbnail": "https://github.com/ringy9/pic/blob/main/thumbnailURL.png?raw=true",
+    "servers": [
+      {
+        "name": "السيرفر 1",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "m3u8"
+      },
+            {
+        "name": "السيرفر 2",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4"
+      },
+            {
+        "name": "السيرفر 3",
+        "url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4",
+        "type": "mp4"
+      }
+    ]
+  }
+],
+  "ads": [
+    {
+      "id": "ad1",
+      "title": "ADS - اعلان",
+      "image": "https://github.com/ringy9/BEIN/blob/main/ratyacine.png?raw=true",
+      "url": "https://play.google.com/store/apps/details?id=com.jeaoapps.ysntv"
+    }
+  ],
+  "categories": [],
+  "matches": [],
+  "highlights": [
+    {
+      "id": "h1",
+      "title": "ملخص | الأهلي 3-1 الزمالك | ديربي القرن",
+      "date": "May 05, 2026",
+      "image": "https://raw.githubusercontent.com/ringy9/BEIN/refs/heads/main/thumbnail.jpg",
+      "video_url": "https://raw.githubusercontent.com/ringy9/AymaneTV/refs/heads/main/beim.mp4"
+    }
+  ],
+  "news": [],
+  "update": {
+    "enabled": false,
+    "force_update": false,
+    "latest_version_code": 24,
+    "latest_version_name": "3.10.1",
+    "title": "تحديث جديد متاح!",
+    "message": "يتوفر إصدار جديد من التطبيق يحتوي على تحسينات في الأداء وميزات جديدة. قم بالتحديث الآن للحصول على أفضل تجربة.",
+    "icon": "",
+    "update_button_text": "تحديث الآن",
+    "later_button_text": "لاحقاً",
+    "update_url": "https://play.google.com/store/apps/details?id=com.lukyvero.yasstv",
+    "show_every_launch": false
+  },
+  "exit_dialog": {
+    "enabled": true,
+    "title": "هل تريد الخروج؟",
+    "message": "هل أنت متأكد أنك تريد إغلاق التطبيق؟",
+    "icon": "",
+    "exit_button_text": "خروج",
+    "cancel_button_text": "إلغاء",
+    "show_native_ad": true,
+    "native_ad_network": "meta",
+    "native_ad_fallback_network": "admob"
+  },
+  "ads_config": {
+    "enabled": true,
+    "default_network": "admob",
+    "fallback_network": "admob",
+    "admob": {
+      "enabled": true,
+      "app_id": "ca-app-pub-9297113109682195~2052263825",
+      "banner_id": "ca-app-pub-9297113109682195/4653754311",
+      "interstitial_id": "ca-app-pub-9297113109682195/3931699586",
+      "native_id": "ca-app-pub-9297113109682195/9300324768",
+      "app_open_id": "ca-app-pub-9297113109682195/6614325366",
+      "rewarded_id": ""
+    },
+
+    "max": {
+      "enabled": false,
+      "sdk_key": "YOUR_MAX_SDK_KEY",
+      "banner_id": "YOUR_MAX_BANNER_ID",
+      "interstitial_id": "YOUR_MAX_INTERSTITIAL_ID",
+      "native_id": "YOUR_MAX_NATIVE_ID"
+    },
+    "ironsource": {
+      "enabled": true,
+      "app_key": "2823163d5",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": false,
+      "banner_ad_unit_id": "2cnaujic4mcx0999",
+      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
+      "rewarded_ad_unit_id": "845b4vblo0fq2tyu"
+    },
+    "meta": {
+      "enabled": true,
+      "placement_banner": "3185030118346765_3208500032666440",
+      "placement_interstitial": "3185030118346765_3208500125999764",
+      "placement_native": "3185030118346765_3208500202666423",
+      "placement_rewarded": ""
+    },
+    "levelplay": {
+      "enabled": true,
+      "app_key": "2823163d5",
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "rewarded_enabled": false,
+      "banner_ad_unit_id": "2cnaujic4mcx0999",
+      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
+      "rewarded_ad_unit_id": "845b4vblo0fq2tyu",
+      "mediated_networks": {
+        "admob": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "meta": {
+          "enabled": true,
+          "ready": false,
+          "dashboard_setup_required": true
+        },
+        "yandex": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "vungle_liftoff": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        },
+        "unity_ads": {
+          "enabled": true,
+          "ready": true,
+          "dashboard_setup_required": true
+        }
+      }
+    },
+    "yandex": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "vungle": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "app_id": "",
+      "banner_id": "",
+      "interstitial_id": "",
+      "rewarded_id": ""
+    },
+    "unity_ads": {
+      "enabled": true,
+      "ready": true,
+      "managed_by": "levelplay",
+      "game_id_android": "6155984",
+      "banner_id": "Banner_Android",
+      "interstitial_id": "Interstitial_Android",
+      "rewarded_id": "Rewarded_Android"
+    },
+    "placements": {
+      "banner": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "meta",
+        "show_on": [
+          "matches",
+          "leagues",
+          "categories",
+          "highlights",
+          "news",
+          "settings",
+          "league_matches",
+          "standings",
+          "about",
+          "privacy"
+        ],
+        "position": "bottom"
+      },
+      "rewarded": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_first_match_click": false,
+        "wait_for_load_ms": 2500,
+        "fallback_to_interstitial": false
+      },
+      "interstitial": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "admob",
+        "first_click": true,
+        "first_click_only": false,
+        "show_every_clicks": 3,
+        "min_seconds_between_ads": 0,
+        "show_on_clicks": [
+          "match_click",
+          "highlight_click",
+          "news_click",
+          "category_click",
+          "league_click"
+        ]
+      },
+      "native": {
+        "enabled": true,
+        "network": "admob",
+        "fallback_network": "meta",
+        "player_preview": {
+          "enabled": true,
+          "position": "below_preview_image"
+        },
+        "news_details": {
+          "enabled": true,
+          "position": "middle_of_article"
+        },
+        "categories": {
+          "enabled": true,
+          "insert_after_every": 4
+        },
+        "exit_dialog": {
+          "enabled": true,
+          "network": "admob",
+          "fallback_network": "meta"
+        }
+      },
+      "app_open": {
+        "enabled": true,
+        "network": "admob",
+        "show_on_app_start": false,
+        "min_seconds_between_ads": 300
+      }
+    },
+    "networks": {
+      "yandex": {
+        "enabled": true,
+        "ready": true,
+        "dashboard_required": true
+      },
+      "vungle": {
+        "enabled": true,
+        "ready": true,
+        "dashboard_required": true
+      },
+      "unity": {
+        "enabled": true,
+        "ready": true,
+        "managed_by": "levelplay",
+        "dashboard_required": true,
+        "app_id": "",
+        "banner_id": "",
+        "interstitial_id": "",
+        "rewarded_id": ""
+      }
+    }
+  },
+  "player_config": {
+    "use_external_player": true,
+    "external_player_package": "com.ilyas.playerpro",
+    "external_player_play_store_url": "https://play.google.com/store/apps/details?id=com.ilyas.playerpro"
+  },
+  "telegram_popup": {
+    "enabled": true,
+    "show_once": true,
+    "allow_show_again": true,
+    "title": "📢 انضم إلى قناتنا على تيليجرام",
+    "message": "تابع آخر التحديثات والمحتوى الحصري عبر قناتنا الرسمية.",
+    "button_text": "الانضمام للقناة",
+    "button_url": "https://t.me/Ilyas_tv_live",
+    "dont_show_again_text": "عدم الإظهار مرة أخرى"
+  },
+    "support_card": {
+    "enabled": true,
+    "title": "شكراً لدعمك",
+    "message": "لدعم التطبيق، شاركه مع 5 من أصدقائك أو قيّمه ب5 نجوم",
+    "rate_button": "تقييم التطبيق",
+    "share_button": "مشاركة التطبيق",
+    "store_url": "https://play.google.com/store/apps/details?id=com.haydat.sa3adalive",
+    "shine_enabled": true,
+    "background_image_url": "https://github.com/ringy9/pic/blob/main/rateusapp.png?raw=true",
+    "pulse_enabled": true,
+    "pulse_scale": 1.07,
+    "pulse_duration_ms": 3400
+  },
+    "live_notifications": {
+    "enabled": true,
+    "teams": [
+      "Real Madrid",
+      "Barcelona",
+      "Atletico Madrid",
+      "Manchester City",
+      "Manchester United",
+      "Liverpool",
+      "Arsenal",
+      "Chelsea",
+      "Tottenham",
+      "Bayern Munich",
+      "Borussia Dortmund",
+      "Paris Saint Germain",
+      "PSG",
+      "Inter",
+      "AC Milan",
+      "Juventus",
+      "Napoli",
+      "Al-Hilal Saudi FC",
+      "Al-Nassr",
+      "Al-Ittihad FC",
+      "Al-Ahli Jeddah",
+      "Al Ahly",
+      "Zamalek SC",
+      "Wydad AC",
+      "Raja Casablanca",
+      "Esperance Tunis",
+      "Al Ain",
+      "Al Sadd"
+    ],
+    "poll_interval_minutes": 1,
+    "max_elapsed_minutes": 10,
+    "title": "🔴 انطلقت الآن",
+    "message": "{home} × {away} • {league} — اضغط لمتابعة تفاصيل المباراة",
+    "button": "تفاصيل المباراة",
+    "segment": "Subscribed Users"
+  }
+}
