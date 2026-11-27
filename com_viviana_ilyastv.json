@@ -233,12 +233,12 @@
     "fallback_network": "admob",
     "admob": {
       "enabled": true,
-      "app_id": "ca-app-pub-9297113109682195~2052263825",
-      "banner_id": "ca-app-pub-9297113109682195/4653754311",
-      "interstitial_id": "ca-app-pub-9297113109682195/3931699586",
-      "native_id": "ca-app-pub-9297113109682195/9300324768",
-      "app_open_id": "ca-app-pub-9297113109682195/6614325366",
-      "rewarded_id": ""
+      "app_id": "ca-app-pub-8787914644651926~3583501144",
+      "banner_id": "ca-app-pub-8787914644651926/8003533549",
+      "interstitial_id": "ca-app-pub-8787914644651926/3969075291",
+      "native_id": "ca-app-pub-8787914644651926/5609460027",
+      "app_open_id": "ca-app-pub-8787914644651926/6227151514",
+      "rewarded_id": "ca-app-pub-8787914644651926/1067579787"
     },
 
     "max": {
@@ -361,8 +361,8 @@
         "fallback_network": "admob",
         "first_click": true,
         "first_click_only": false,
-        "show_every_clicks": 3,
-        "min_seconds_between_ads": 0,
+        "show_every_clicks": 5,
+        "min_seconds_between_ads": 30,
         "show_on_clicks": [
           "match_click",
           "highlight_click",
