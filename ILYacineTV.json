@@ -13,9 +13,9 @@
     "app_id": "9f3c16cf-f426-490b-92be-01d320ec69d8"
   },
   "update": {
-    "enabled": false,
-    "force": false,
-    "version_code": 2,
+    "enabled": true,
+    "force": true,
+    "version_code": 4.2.7,
     "title": "تحديث جديد متاح",
     "message": "يرجى تحديث التطبيق للحصول على أفضل تجربة",
     "url": "https://play.google.com/store/apps/details?id=com.ILYacineTV.proWorld"
