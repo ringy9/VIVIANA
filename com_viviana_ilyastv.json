@@ -224,12 +224,12 @@
     "exit_button_text": "خروج",
     "cancel_button_text": "إلغاء",
     "show_native_ad": true,
-    "native_ad_network": "meta",
+    "native_ad_network": "levelplay",
     "native_ad_fallback_network": "admob"
   },
   "ads_config": {
     "enabled": true,
-    "default_network": "admob",
+    "default_network": "levelplay",
     "fallback_network": "admob",
     "admob": {
       "enabled": true,
@@ -315,16 +315,16 @@
       "enabled": true,
       "ready": true,
       "managed_by": "levelplay",
-      "app_id": "",
-      "banner_id": "",
-      "interstitial_id": "",
-      "rewarded_id": ""
+      "app_id": "6b0a8186704187f495249487",
+      "banner_id": "BANNER-9597553",
+      "interstitial_id": "INTERSTITIAL-7088750",
+      "rewarded_id": "REWARDED-9527360"
     },
     "unity_ads": {
       "enabled": true,
       "ready": true,
       "managed_by": "levelplay",
-      "game_id_android": "6155984",
+      "game_id_android": "6234498",
       "banner_id": "Banner_Android",
       "interstitial_id": "Interstitial_Android",
       "rewarded_id": "Rewarded_Android"
@@ -332,8 +332,8 @@
     "placements": {
       "banner": {
         "enabled": true,
-        "network": "admob",
-        "fallback_network": "meta",
+        "network": "levelplay",
+        "fallback_network": "admob",
         "show_on": [
           "matches",
           "leagues",
@@ -350,14 +350,14 @@
       },
       "rewarded": {
         "enabled": true,
-        "network": "admob",
+        "network": "levelplay",
         "show_on_first_match_click": false,
         "wait_for_load_ms": 2500,
         "fallback_to_interstitial": false
       },
       "interstitial": {
         "enabled": true,
-        "network": "admob",
+        "network": "levelplay",
         "fallback_network": "admob",
         "first_click": true,
         "first_click_only": false,
@@ -373,8 +373,8 @@
       },
       "native": {
         "enabled": true,
-        "network": "admob",
-        "fallback_network": "meta",
+        "network": "levelplay",
+        "fallback_network": "admob",
         "player_preview": {
           "enabled": true,
           "position": "below_preview_image"
@@ -389,8 +389,8 @@
         },
         "exit_dialog": {
           "enabled": true,
-          "network": "admob",
-          "fallback_network": "meta"
+          "network": "levelplay",
+          "fallback_network": "admob"
         }
       },
       "app_open": {
