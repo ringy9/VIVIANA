@@ -249,8 +249,8 @@
       "native_id": "YOUR_MAX_NATIVE_ID"
     },
     "ironsource": {
-      "enabled": true,
-      "app_key": "2823163d5",
+      "enabled": false,
+      "app_key": "29fa76095",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
@@ -267,13 +267,13 @@
     },
     "levelplay": {
       "enabled": true,
-      "app_key": "2823163d5",
+      "app_key": "29fa76095",
       "banner_enabled": true,
       "interstitial_enabled": true,
       "rewarded_enabled": false,
-      "banner_ad_unit_id": "2cnaujic4mcx0999",
-      "interstitial_ad_unit_id": "n6pxrezl1fbq7x4v",
-      "rewarded_ad_unit_id": "845b4vblo0fq2tyu",
+      "banner_ad_unit_id": "j4prx6r81k8byr1m",
+      "interstitial_ad_unit_id": "bjesvszhhqxffl4t",
+      "rewarded_ad_unit_id": "b04bxgnpnu9vy6rf",
       "mediated_networks": {
         "admob": {
           "enabled": true,
